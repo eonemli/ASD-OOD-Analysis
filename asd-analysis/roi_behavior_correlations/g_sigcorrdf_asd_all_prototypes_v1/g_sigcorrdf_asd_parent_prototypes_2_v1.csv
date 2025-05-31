@@ -1,0 +1,375 @@
+ROI,Behavior,Corr,p-value,nsamples
+Right Crus II of cerebellar hemisphere,CBCL-social_prob_score,0.3759798615206846,0.3243675632436756,9
+Right Crus II of cerebellar hemisphere,CBCL-thought_prob_score,0.7563292261344161,0.021397860213978603,9
+Right Crus II of cerebellar hemisphere,CBCL-anx_prob_score,0.3322612729717678,0.38776122387761225,9
+Right Crus II of cerebellar hemisphere,CBCL-internalizing_score,0.35598333940092547,0.36536346365363465,9
+Right Crus II of cerebellar hemisphere,CBCL-externalizing_score,0.09999999999999999,0.8129187081291871,9
+Right Crus II of cerebellar hemisphere,CBCL-total_problems_score,0.16666666666666669,0.6753324667533247,9
+Right Crus II of cerebellar hemisphere,CBCL-attention_prob_score,0.29412803238560625,0.45055494450554945,9
+Right Crus II of cerebellar hemisphere,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.08784316427318041,0.7969203079692031,12
+Right Crus II of cerebellar hemisphere,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.36369648372665403,0.4238095238095238,7
+Right Crus II of cerebellar hemisphere,"V24 ADOS_Derived,social_affect_total",-0.14593057682423857,0.6231376862313769,12
+Right Crus II of cerebellar hemisphere,"V36 ADOS_Derived,social_affect_total",0.5585812268712466,0.20555555555555555,7
+Left Crus II of cerebellar hemisphere,CBCL-social_prob_score,0.06120602396848353,0.8887111288871112,9
+Left Crus II of cerebellar hemisphere,CBCL-thought_prob_score,0.5462377744304117,0.1367863213678632,9
+Left Crus II of cerebellar hemisphere,CBCL-anx_prob_score,0.3672361438109012,0.33596640335966405,9
+Left Crus II of cerebellar hemisphere,CBCL-internalizing_score,0.2203706386767634,0.593940605939406,9
+Left Crus II of cerebellar hemisphere,CBCL-externalizing_score,0.016666666666666666,0.9801019898010199,9
+Left Crus II of cerebellar hemisphere,CBCL-total_problems_score,0.16666666666666669,0.6891310868913109,9
+Left Crus II of cerebellar hemisphere,CBCL-attention_prob_score,0.19328413556768412,0.6305369463053695,9
+Left Crus II of cerebellar hemisphere,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.19032685592522425,0.5583441655834417,12
+Left Crus II of cerebellar hemisphere,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.23640271442232513,0.6,7
+Left Crus II of cerebellar hemisphere,"V24 ADOS_Derived,social_affect_total",-0.20287909460930725,0.5255474452554745,12
+Left Crus II of cerebellar hemisphere,"V36 ADOS_Derived,social_affect_total",0.7567874686642696,0.05714285714285714,7
+Left Crus I of cerebellar hemisphere,CBCL-social_prob_score,-0.21859294274458407,0.5603439656034397,9
+Left Crus I of cerebellar hemisphere,CBCL-thought_prob_score,0.1596695032950434,0.6845315468453155,9
+Left Crus I of cerebellar hemisphere,CBCL-anx_prob_score,0.3235175552619844,0.40535946405359463,9
+Left Crus I of cerebellar hemisphere,CBCL-internalizing_score,0.2542738138578039,0.5231476852314768,9
+Left Crus I of cerebellar hemisphere,CBCL-externalizing_score,0.18333333333333335,0.654934506549345,9
+Left Crus I of cerebellar hemisphere,CBCL-total_problems_score,0.45,0.22097790220977903,9
+Left Crus I of cerebellar hemisphere,CBCL-attention_prob_score,0.4117792453398488,0.2725727427257274,9
+Left Crus I of cerebellar hemisphere,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.19764711961465592,0.52994700529947,12
+Left Crus I of cerebellar hemisphere,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.0363696483726654,0.9555555555555556,7
+Left Crus I of cerebellar hemisphere,"V24 ADOS_Derived,social_affect_total",-0.22067550641714126,0.48155184481551844,12
+Left Crus I of cerebellar hemisphere,"V36 ADOS_Derived,social_affect_total",0.5405624776173354,0.21825396825396826,7
+Right Crus I of cerebellar hemisphere,CBCL-social_prob_score,0.4459296031989515,0.23397660233976603,9
+Right Crus I of cerebellar hemisphere,CBCL-thought_prob_score,0.747925568066256,0.022797720227977204,9
+Right Crus I of cerebellar hemisphere,CBCL-anx_prob_score,0.45467332090873486,0.22817718228177183,9
+Right Crus I of cerebellar hemisphere,CBCL-internalizing_score,0.35598333940092547,0.35576442355764426,9
+Right Crus I of cerebellar hemisphere,CBCL-externalizing_score,0.41666666666666663,0.2753724627537246,9
+Right Crus I of cerebellar hemisphere,CBCL-total_problems_score,0.48333333333333334,0.19138086191380863,9
+Right Crus I of cerebellar hemisphere,CBCL-attention_prob_score,0.4958158260214505,0.16298370162983702,9
+Right Crus I of cerebellar hemisphere,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.010980395534147551,0.9745025497450255,12
+Right Crus I of cerebellar hemisphere,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.545544725589981,0.21904761904761905,7
+Right Crus I of cerebellar hemisphere,"V24 ADOS_Derived,social_affect_total",-0.021355694169400762,0.9425057494250575,12
+Right Crus I of cerebellar hemisphere,"V36 ADOS_Derived,social_affect_total",0.5765999761251578,0.1865079365079365,7
+Right Amygdala,CBCL-social_prob_score,0.11366833022718371,0.7753224677532247,9
+Right Amygdala,CBCL-thought_prob_score,-0.12605487102240268,0.7461253874612539,9
+Right Amygdala,CBCL-anx_prob_score,-0.3235175552619844,0.394960503949605,9
+Right Amygdala,CBCL-internalizing_score,-0.4407412773535268,0.24417558244175583,9
+Right Amygdala,CBCL-externalizing_score,0.2333333333333333,0.5533446655334466,9
+Right Amygdala,CBCL-total_problems_score,0.08333333333333334,0.8309169083091691,9
+Right Amygdala,CBCL-attention_prob_score,0.01680731613632036,0.9799020097990201,9
+Right Amygdala,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.2781700201984046,0.3785621437856214,12
+Right Amygdala,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.4000661320993194,0.37936507936507935,7
+Right Amygdala,"V24 ADOS_Derived,social_affect_total",0.23135335350184164,0.47315268473152683,12
+Right Amygdala,"V36 ADOS_Derived,social_affect_total",-0.4504687313477795,0.3111111111111111,7
+Right Posterior cingulate gyrus,CBCL-social_prob_score,0.0,0.9937006299370063,9
+Right Posterior cingulate gyrus,CBCL-thought_prob_score,0.25210974204480535,0.48295170482951705,9
+Right Posterior cingulate gyrus,CBCL-anx_prob_score,0.2797989667130676,0.47355264473552644,9
+Right Posterior cingulate gyrus,CBCL-internalizing_score,0.2542738138578039,0.5065493450654934,9
+Right Posterior cingulate gyrus,CBCL-externalizing_score,0.43333333333333335,0.23597640235976403,9
+Right Posterior cingulate gyrus,CBCL-total_problems_score,0.43333333333333335,0.253974602539746,9
+Right Posterior cingulate gyrus,CBCL-attention_prob_score,0.2857243743174461,0.4587541245875412,9
+Right Posterior cingulate gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.3440523934032899,0.27277272272772723,12
+Right Posterior cingulate gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.2727723627949905,0.5571428571428572,7
+Right Posterior cingulate gyrus,"V24 ADOS_Derived,social_affect_total",0.19576052988617368,0.5447455254474552,12
+Right Posterior cingulate gyrus,"V36 ADOS_Derived,social_affect_total",0.01801874925391118,0.9880952380952381,7
+Left Amygdala,CBCL-social_prob_score,-0.1661306364858839,0.6803319668033196,9
+Left Amygdala,CBCL-thought_prob_score,-0.16807316136320358,0.6641335866413358,9
+Left Amygdala,CBCL-anx_prob_score,0.0699497416782669,0.8777122287771223,9
+Left Amygdala,CBCL-internalizing_score,-0.11866111313364182,0.783921607839216,9
+Left Amygdala,CBCL-externalizing_score,-0.09999999999999999,0.7973202679732027,9
+Left Amygdala,CBCL-total_problems_score,-0.21666666666666667,0.5709429057094291,9
+Left Amygdala,CBCL-attention_prob_score,-0.2773207162492859,0.45335466453354667,9
+Left Amygdala,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.20862751514880346,0.527947205279472,12
+Left Amygdala,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.10910894511799621,0.8158730158730159,7
+Left Amygdala,"V24 ADOS_Derived,social_affect_total",-0.014237129446267177,0.9701029897010299,12
+Left Amygdala,"V36 ADOS_Derived,social_affect_total",-0.4504687313477795,0.3111111111111111,7
+Left Fusiform gyrus,CBCL-social_prob_score,-0.14864320106631715,0.7017298270172982,9
+Left Fusiform gyrus,CBCL-thought_prob_score,0.00840365806816018,0.9679032096790321,9
+Left Fusiform gyrus,CBCL-anx_prob_score,0.3672361438109012,0.34836516348365165,9
+Left Fusiform gyrus,CBCL-internalizing_score,-0.01695158759052026,0.9761023897610239,9
+Left Fusiform gyrus,CBCL-externalizing_score,-0.11666666666666665,0.7847215278472153,9
+Left Fusiform gyrus,CBCL-total_problems_score,0.15,0.710928907109289,9
+Left Fusiform gyrus,CBCL-attention_prob_score,0.19328413556768412,0.6051394860513949,9
+Left Fusiform gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.10980395534147552,0.7233276672332767,12
+Left Fusiform gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.2545875386086578,0.5714285714285714,7
+Left Fusiform gyrus,"V24 ADOS_Derived,social_affect_total",-0.042711388338801524,0.8899110088991101,12
+Left Fusiform gyrus,"V36 ADOS_Derived,social_affect_total",0.594618725379069,0.173015873015873,7
+Left Superior parietal gyrus,CBCL-social_prob_score,0.2710552490032842,0.4811518848115188,9
+Left Superior parietal gyrus,CBCL-thought_prob_score,0.4201829034080089,0.270972902709729,9
+Left Superior parietal gyrus,CBCL-anx_prob_score,0.5421104980065684,0.140985901409859,9
+Left Superior parietal gyrus,CBCL-internalizing_score,0.23732222626728364,0.5477452254774523,9
+Left Superior parietal gyrus,CBCL-externalizing_score,0.21666666666666667,0.5807419258074192,9
+Left Superior parietal gyrus,CBCL-total_problems_score,0.45,0.24297570242975702,9
+Left Superior parietal gyrus,CBCL-attention_prob_score,0.5042194840896107,0.17938206179382063,9
+Left Superior parietal gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.029281054757726806,0.9253074692530747,12
+Left Superior parietal gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.6000991981489792,0.16507936507936508,7
+Left Superior parietal gyrus,"V24 ADOS_Derived,social_affect_total",0.16372698863207252,0.6043395660433957,12
+Left Superior parietal gyrus,"V36 ADOS_Derived,social_affect_total",0.7207499701564473,0.07777777777777778,7
+Right Superior parietal gyrus,CBCL-social_prob_score,0.6208039573946187,0.0837916208379162,9
+Right Superior parietal gyrus,CBCL-thought_prob_score,0.5462377744304117,0.12758724127587243,9
+Right Superior parietal gyrus,CBCL-anx_prob_score,0.2885426844228509,0.45755424457554245,9
+Right Superior parietal gyrus,CBCL-internalizing_score,0.2203706386767634,0.5753424657534246,9
+Right Superior parietal gyrus,CBCL-externalizing_score,0.31666666666666665,0.42695730426957307,9
+Right Superior parietal gyrus,CBCL-total_problems_score,0.35,0.34896510348965104,9
+Right Superior parietal gyrus,CBCL-attention_prob_score,0.46220119374880986,0.21877812218778123,9
+Right Superior parietal gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.23424843806181445,0.4647535246475352,12
+Right Superior parietal gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.9456108576893005,0.004761904761904762,7
+Right Superior parietal gyrus,"V24 ADOS_Derived,social_affect_total",0.21711622405557449,0.501949805019498,12
+Right Superior parietal gyrus,"V36 ADOS_Derived,social_affect_total",0.41443123283995714,0.35555555555555557,7
+Right Thalamus,CBCL-social_prob_score,0.23608037816415078,0.5373462653734626,9
+Right Thalamus,CBCL-thought_prob_score,0.1176512129542425,0.7667233276672333,9
+Right Thalamus,CBCL-anx_prob_score,-0.026231153129350083,0.9381061893810619,9
+Right Thalamus,CBCL-internalizing_score,-0.3051285766293647,0.42075792420757924,9
+Right Thalamus,CBCL-externalizing_score,0.09999999999999999,0.815918408159184,9
+Right Thalamus,CBCL-total_problems_score,0.21666666666666667,0.5855414458554145,9
+Right Thalamus,CBCL-attention_prob_score,0.29412803238560625,0.45435456454354567,9
+Right Thalamus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.3440523934032899,0.2833716628337166,12
+Right Thalamus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.6728384948943099,0.10793650793650794,7
+Right Thalamus,"V24 ADOS_Derived,social_affect_total",0.32745397726414505,0.30056994300569945,12
+Right Thalamus,"V36 ADOS_Derived,social_affect_total",-0.03603749850782236,0.9492063492063492,7
+"Left Superior frontal gyrus, dorsolateral",CBCL-social_prob_score,0.3847235792304679,0.31216878312168783,9
+"Left Superior frontal gyrus, dorsolateral",CBCL-thought_prob_score,0.32774266465824703,0.38116188381161886,9
+"Left Superior frontal gyrus, dorsolateral",CBCL-anx_prob_score,0.0699497416782669,0.8579142085791421,9
+"Left Superior frontal gyrus, dorsolateral",CBCL-internalizing_score,-0.16951587590520262,0.6657334266573343,9
+"Left Superior frontal gyrus, dorsolateral",CBCL-externalizing_score,0.2333333333333333,0.5477452254774523,9
+"Left Superior frontal gyrus, dorsolateral",CBCL-total_problems_score,0.3,0.4323567643235676,9
+"Left Superior frontal gyrus, dorsolateral",CBCL-attention_prob_score,0.3613572969308877,0.3367663233676632,9
+"Left Superior frontal gyrus, dorsolateral","V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.08418303242846455,0.8049195080491951,12
+"Left Superior frontal gyrus, dorsolateral","V36 ADOS_Derived,restricted_repetitive_behavior_total",0.8365019125713042,0.02857142857142857,7
+"Left Superior frontal gyrus, dorsolateral","V24 ADOS_Derived,social_affect_total",0.17796411807833973,0.5947405259474052,12
+"Left Superior frontal gyrus, dorsolateral","V36 ADOS_Derived,social_affect_total",0.30631873731649006,0.5007936507936508,7
+Right Fusiform gyrus,CBCL-social_prob_score,0.21859294274458407,0.5741425857414258,9
+Right Fusiform gyrus,CBCL-thought_prob_score,0.36976095499904793,0.31956804319568044,9
+Right Fusiform gyrus,CBCL-anx_prob_score,0.19236178961523395,0.6081391860813918,9
+Right Fusiform gyrus,CBCL-internalizing_score,0.15256428831468236,0.7057294270572942,9
+Right Fusiform gyrus,CBCL-externalizing_score,0.09999999999999999,0.8115188481151885,9
+Right Fusiform gyrus,CBCL-total_problems_score,0.31666666666666665,0.42475752424757524,9
+Right Fusiform gyrus,CBCL-attention_prob_score,0.46220119374880986,0.20677932206779323,9
+Right Fusiform gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.15738566932278156,0.6427357264273572,12
+Right Fusiform gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",-0.0727392967453308,0.8888888888888888,7
+Right Fusiform gyrus,"V24 ADOS_Derived,social_affect_total",-0.2954204360100439,0.33136686331366866,12
+Right Fusiform gyrus,"V36 ADOS_Derived,social_affect_total",0.6306562238868914,0.14365079365079364,7
+Left Cuneus,CBCL-social_prob_score,-0.008743717709783362,0.9923007699230078,9
+Left Cuneus,CBCL-thought_prob_score,0.10084389681792215,0.7823217678232177,9
+Left Cuneus,CBCL-anx_prob_score,0.0699497416782669,0.8837116288371163,9
+Left Cuneus,CBCL-internalizing_score,-0.2203706386767634,0.5875412458754125,9
+Left Cuneus,CBCL-externalizing_score,-0.016666666666666666,0.9949005099490051,9
+Left Cuneus,CBCL-total_problems_score,0.21666666666666667,0.591940805919408,9
+Left Cuneus,CBCL-attention_prob_score,0.2857243743174461,0.43155684431556846,9
+Left Cuneus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.5343792493285141,0.07119288071192881,12
+Left Cuneus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.7092081432669755,0.08571428571428572,7
+Left Cuneus,"V24 ADOS_Derived,social_affect_total",0.1922012475246069,0.5565443455654434,12
+Left Cuneus,"V36 ADOS_Derived,social_affect_total",0.6306562238868914,0.14365079365079364,7
+"Left Inferior frontal gyrus, triangular part",CBCL-social_prob_score,0.008743717709783362,1.0,9
+"Left Inferior frontal gyrus, triangular part",CBCL-thought_prob_score,0.38656827113536824,0.30956904309569044,9
+"Left Inferior frontal gyrus, triangular part",CBCL-anx_prob_score,0.47216075632830157,0.20237976202379762,9
+"Left Inferior frontal gyrus, triangular part",CBCL-internalizing_score,0.18646746349572288,0.6443355664433557,9
+"Left Inferior frontal gyrus, triangular part",CBCL-externalizing_score,0.09999999999999999,0.7935206479352065,9
+"Left Inferior frontal gyrus, triangular part",CBCL-total_problems_score,0.3666666666666667,0.3307669233076692,9
+"Left Inferior frontal gyrus, triangular part",CBCL-attention_prob_score,0.37816461306720806,0.32456754324567544,9
+"Left Inferior frontal gyrus, triangular part","V24 ADOS_Derived,restricted_repetitive_behavior_total",0.06588237320488531,0.8383161683831617,12
+"Left Inferior frontal gyrus, triangular part","V36 ADOS_Derived,restricted_repetitive_behavior_total",0.4000661320993194,0.37936507936507935,7
+"Left Inferior frontal gyrus, triangular part","V24 ADOS_Derived,social_affect_total",0.08186349431603626,0.8117188281171883,12
+"Left Inferior frontal gyrus, triangular part","V36 ADOS_Derived,social_affect_total",0.7207499701564473,0.07777777777777778,7
+Right Cuneus,CBCL-social_prob_score,0.0,0.9917008299170083,9
+Right Cuneus,CBCL-thought_prob_score,0.19328413556768412,0.6335366463353664,9
+Right Cuneus,CBCL-anx_prob_score,0.5595979334261352,0.11818818118188182,9
+Right Cuneus,CBCL-internalizing_score,0.11866111313364182,0.7617238276172382,9
+Right Cuneus,CBCL-externalizing_score,0.016666666666666666,0.9811018898110189,9
+Right Cuneus,CBCL-total_problems_score,0.2333333333333333,0.5627437256274372,9
+Right Cuneus,CBCL-attention_prob_score,0.235302425908485,0.5363463653634637,9
+Right Cuneus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.2964706794219839,0.34336566343365665,12
+Right Cuneus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.6728384948943099,0.10793650793650794,7
+Right Cuneus,"V24 ADOS_Derived,social_affect_total",0.28118330656377677,0.38376162383761625,12
+Right Cuneus,"V36 ADOS_Derived,social_affect_total",0.594618725379069,0.173015873015873,7
+Right Middle frontal gyrus,CBCL-social_prob_score,0.22733666045436743,0.5329467053294671,9
+Right Middle frontal gyrus,CBCL-thought_prob_score,0.605063380907533,0.09599040095990401,9
+Right Middle frontal gyrus,CBCL-anx_prob_score,0.6732662636533189,0.04999500049995,9
+Right Middle frontal gyrus,CBCL-internalizing_score,0.6272087408492496,0.07899210078992101,9
+Right Middle frontal gyrus,CBCL-externalizing_score,0.45,0.22097790220977903,9
+Right Middle frontal gyrus,CBCL-total_problems_score,0.7,0.04659534046595341,9
+Right Middle frontal gyrus,CBCL-attention_prob_score,0.7143109357936153,0.039196080391960805,9
+Right Middle frontal gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.17934646039107668,0.5701429857014298,12
+Right Middle frontal gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.09092412093166351,0.846031746031746,7
+Right Middle frontal gyrus,"V24 ADOS_Derived,social_affect_total",-0.14948985918580535,0.6241375862413758,12
+Right Middle frontal gyrus,"V36 ADOS_Derived,social_affect_total",0.702731220902536,0.08968253968253968,7
+"Right Superior frontal gyrus, dorsolateral",CBCL-social_prob_score,0.11366833022718371,0.7871212878712128,9
+"Right Superior frontal gyrus, dorsolateral",CBCL-thought_prob_score,0.47060485181697,0.205979402059794,9
+"Right Superior frontal gyrus, dorsolateral",CBCL-anx_prob_score,0.2797989667130676,0.45615438456154384,9
+"Right Superior frontal gyrus, dorsolateral",CBCL-internalizing_score,0.10170952554312156,0.7793220677932207,9
+"Right Superior frontal gyrus, dorsolateral",CBCL-externalizing_score,0.18333333333333335,0.6415358464153584,9
+"Right Superior frontal gyrus, dorsolateral",CBCL-total_problems_score,0.41666666666666663,0.2655734426557344,9
+"Right Superior frontal gyrus, dorsolateral",CBCL-attention_prob_score,0.4874121679532904,0.1845815418458154,9
+"Right Superior frontal gyrus, dorsolateral","V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.21594777883823518,0.49375062493750627,12
+"Right Superior frontal gyrus, dorsolateral","V36 ADOS_Derived,restricted_repetitive_behavior_total",0.5091750772173156,0.2492063492063492,7
+"Right Superior frontal gyrus, dorsolateral","V24 ADOS_Derived,social_affect_total",0.014237129446267177,0.9837016298370163,12
+"Right Superior frontal gyrus, dorsolateral","V36 ADOS_Derived,social_affect_total",0.4684874806016907,0.2873015873015873,7
+Left Middle frontal gyrus,CBCL-social_prob_score,0.21859294274458407,0.5883411658834117,9
+Left Middle frontal gyrus,CBCL-thought_prob_score,0.4117792453398488,0.265973402659734,9
+Left Middle frontal gyrus,CBCL-anx_prob_score,0.2011055073250173,0.5913408659134086,9
+Left Middle frontal gyrus,CBCL-internalizing_score,0.01695158759052026,0.9821017898210179,9
+Left Middle frontal gyrus,CBCL-externalizing_score,0.16666666666666669,0.6635336466353364,9
+Left Middle frontal gyrus,CBCL-total_problems_score,0.38333333333333336,0.32056794320567944,9
+Left Middle frontal gyrus,CBCL-attention_prob_score,0.47060485181697,0.2101789821017898,9
+Left Middle frontal gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.029281054757726806,0.9365063493650635,12
+Left Middle frontal gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.43643578047198484,0.33015873015873015,7
+Left Middle frontal gyrus,"V24 ADOS_Derived,social_affect_total",-0.03203354125410115,0.9107089291070893,12
+Left Middle frontal gyrus,"V36 ADOS_Derived,social_affect_total",0.6306562238868914,0.14365079365079364,7
+Left Insula,CBCL-social_prob_score,0.2797989667130676,0.47215278472152783,9
+Left Insula,CBCL-thought_prob_score,0.25210974204480535,0.49835016498350165,9
+Left Insula,CBCL-anx_prob_score,0.10492461251740033,0.7857214278572143,9
+Left Insula,CBCL-internalizing_score,-0.11866111313364182,0.7915208479152085,9
+Left Insula,CBCL-externalizing_score,0.35,0.3591640835916408,9
+Left Insula,CBCL-total_problems_score,0.41666666666666663,0.271972802719728,9
+Left Insula,CBCL-attention_prob_score,0.4117792453398488,0.283971602839716,9
+Left Insula,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.1281046145650548,0.6823317668233176,12
+Left Insula,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.7092081432669755,0.08571428571428572,7
+Left Insula,"V24 ADOS_Derived,social_affect_total",0.2562683300328092,0.415958404159584,12
+Left Insula,"V36 ADOS_Derived,social_affect_total",0.30631873731649006,0.5007936507936508,7
+Left Anterior cingulate and paracingulate gyri,CBCL-social_prob_score,0.026231153129350083,0.9599040095990401,9
+Left Anterior cingulate and paracingulate gyri,CBCL-thought_prob_score,0.2016877936358443,0.6091390860913909,9
+Left Anterior cingulate and paracingulate gyri,CBCL-anx_prob_score,-0.12241204793696706,0.7519248075192481,9
+Left Anterior cingulate and paracingulate gyri,CBCL-internalizing_score,-0.23732222626728364,0.531946805319468,9
+Left Anterior cingulate and paracingulate gyri,CBCL-externalizing_score,0.19999999999999998,0.6301369863013698,9
+Left Anterior cingulate and paracingulate gyri,CBCL-total_problems_score,0.15,0.7013298670132987,9
+Left Anterior cingulate and paracingulate gyri,CBCL-attention_prob_score,0.10924755488608233,0.7775222477752225,9
+Left Anterior cingulate and paracingulate gyri,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.1244444827203389,0.6839316068393161,12
+Left Anterior cingulate and paracingulate gyri,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.5273599014036483,0.23809523809523808,7
+Left Anterior cingulate and paracingulate gyri,"V24 ADOS_Derived,social_affect_total",-0.042711388338801524,0.9033096690330967,12
+Left Anterior cingulate and paracingulate gyri,"V36 ADOS_Derived,social_affect_total",-0.01801874925391118,0.9880952380952381,7
+Left Posterior cingulate gyrus,CBCL-social_prob_score,0.23608037816415078,0.535946405359464,9
+Left Posterior cingulate gyrus,CBCL-thought_prob_score,0.2773207162492859,0.45735426457354267,9
+Left Posterior cingulate gyrus,CBCL-anx_prob_score,0.12241204793696706,0.7427257274272573,9
+Left Posterior cingulate gyrus,CBCL-internalizing_score,0.2881769890388444,0.46115388461153883,9
+Left Posterior cingulate gyrus,CBCL-externalizing_score,0.6833333333333333,0.04999500049995,9
+Left Posterior cingulate gyrus,CBCL-total_problems_score,0.6333333333333333,0.0683931606839316,9
+Left Posterior cingulate gyrus,CBCL-attention_prob_score,0.4958158260214505,0.17998200179982002,9
+Left Posterior cingulate gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.38797397553988017,0.21797820217978203,12
+Left Posterior cingulate gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.2727723627949905,0.5571428571428572,7
+Left Posterior cingulate gyrus,"V24 ADOS_Derived,social_affect_total",0.1245748826548378,0.704929507049295,12
+Left Posterior cingulate gyrus,"V36 ADOS_Derived,social_affect_total",0.01801874925391118,0.9880952380952381,7
+Left Thalamus,CBCL-social_prob_score,0.2885426844228509,0.43715628437156284,9
+Left Thalamus,CBCL-thought_prob_score,0.29412803238560625,0.44475552444755523,9
+Left Thalamus,CBCL-anx_prob_score,0.31477383755220106,0.40775922407759224,9
+Left Thalamus,CBCL-internalizing_score,-0.05085476277156078,0.9149085091490851,9
+Left Thalamus,CBCL-externalizing_score,0.15,0.6935306469353064,9
+Left Thalamus,CBCL-total_problems_score,0.26666666666666666,0.48255174482551744,9
+Left Thalamus,CBCL-attention_prob_score,0.29412803238560625,0.44895510448955106,9
+Left Thalamus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.44653608505533376,0.14438556144385561,12
+Left Thalamus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.8365019125713042,0.02857142857142857,7
+Left Thalamus,"V24 ADOS_Derived,social_affect_total",0.5908408720200878,0.050994900509949,12
+Left Thalamus,"V36 ADOS_Derived,social_affect_total",0.198206241793023,0.6674603174603174,7
+Left Superior temporal gyrus,CBCL-social_prob_score,-0.2797989667130676,0.44995500449955006,9
+Left Superior temporal gyrus,CBCL-thought_prob_score,0.10924755488608233,0.7507249275072493,9
+Left Superior temporal gyrus,CBCL-anx_prob_score,0.3235175552619844,0.39616038396160386,9
+Left Superior temporal gyrus,CBCL-internalizing_score,0.15256428831468236,0.7173282671732827,9
+Left Superior temporal gyrus,CBCL-externalizing_score,-0.06666666666666667,0.8907109289071092,9
+Left Superior temporal gyrus,CBCL-total_problems_score,0.26666666666666666,0.46495350464953505,9
+Left Superior temporal gyrus,CBCL-attention_prob_score,0.29412803238560625,0.42275772422757724,9
+Left Superior temporal gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.14640527378863402,0.6531346865313469,12
+Left Superior temporal gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.09092412093166351,0.846031746031746,7
+Left Superior temporal gyrus,"V24 ADOS_Derived,social_affect_total",0.021355694169400762,0.9367063293670633,12
+Left Superior temporal gyrus,"V36 ADOS_Derived,social_affect_total",0.594618725379069,0.173015873015873,7
+"Right Inferior frontal gyrus, triangular part",CBCL-social_prob_score,0.43718588548916815,0.258974102589741,9
+"Right Inferior frontal gyrus, triangular part",CBCL-thought_prob_score,0.6470816712483338,0.062993700629937,9
+"Right Inferior frontal gyrus, triangular part",CBCL-anx_prob_score,0.6208039573946187,0.0877912208779122,9
+"Right Inferior frontal gyrus, triangular part",CBCL-internalizing_score,0.8136762043449725,0.009599040095990401,9
+"Right Inferior frontal gyrus, triangular part",CBCL-externalizing_score,0.7999999999999999,0.015398460153984602,9
+"Right Inferior frontal gyrus, triangular part",CBCL-total_problems_score,0.9166666666666666,0.001999800019998,9
+"Right Inferior frontal gyrus, triangular part",CBCL-attention_prob_score,0.8655767810204984,0.005599440055994401,9
+"Right Inferior frontal gyrus, triangular part","V24 ADOS_Derived,restricted_repetitive_behavior_total",0.3733334481610167,0.23997600239976002,12
+"Right Inferior frontal gyrus, triangular part","V36 ADOS_Derived,restricted_repetitive_behavior_total",0.23640271442232513,0.6,7
+"Right Inferior frontal gyrus, triangular part","V24 ADOS_Derived,social_affect_total",-0.03915210597723474,0.9165083491650835,12
+"Right Inferior frontal gyrus, triangular part","V36 ADOS_Derived,social_affect_total",0.4504687313477795,0.3111111111111111,7
+Left Precuneus,CBCL-social_prob_score,-0.3497487083913345,0.36376362363763626,9
+Left Precuneus,CBCL-thought_prob_score,-0.07563292261344162,0.8503149685031497,9
+Left Precuneus,CBCL-anx_prob_score,0.4022110146500346,0.28117188281171884,9
+Left Precuneus,CBCL-internalizing_score,0.01695158759052026,0.9757024297570243,9
+Left Precuneus,CBCL-externalizing_score,-0.09999999999999999,0.8115188481151885,9
+Left Precuneus,CBCL-total_problems_score,0.18333333333333335,0.6351364863513649,9
+Left Precuneus,CBCL-attention_prob_score,0.14286218715872304,0.7141285871412859,9
+Left Precuneus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.13176474640977062,0.6855314468553144,12
+Left Precuneus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.2727723627949905,0.5571428571428572,7
+Left Precuneus,"V24 ADOS_Derived,social_affect_total",-0.014237129446267177,0.9811018898110189,12
+Left Precuneus,"V36 ADOS_Derived,social_affect_total",0.5765999761251578,0.1865079365079365,7
+Right Insula,CBCL-social_prob_score,0.04371858854891681,0.9135086491350864,9
+Right Insula,CBCL-thought_prob_score,-0.26051340011296553,0.5045495450454954,9
+Right Insula,CBCL-anx_prob_score,-0.410954732359818,0.2755724427557244,9
+Right Insula,CBCL-internalizing_score,-0.23732222626728364,0.5397460253974603,9
+Right Insula,CBCL-externalizing_score,0.2833333333333333,0.47495250474952505,9
+Right Insula,CBCL-total_problems_score,0.09999999999999999,0.8207179282071793,9
+Right Insula,CBCL-attention_prob_score,0.042018290340800894,0.9255074492550744,9
+Right Insula,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.14274514194391816,0.6643335666433356,12
+Right Insula,"V36 ADOS_Derived,restricted_repetitive_behavior_total",-0.2000330660496597,0.6698412698412698,7
+Right Insula,"V24 ADOS_Derived,social_affect_total",-0.14593057682423857,0.6525347465253475,12
+Right Insula,"V36 ADOS_Derived,social_affect_total",-0.7387687194103585,0.07063492063492063,7
+Right Superior temporal gyrus,CBCL-social_prob_score,-0.09618089480761698,0.8127187281271873,9
+Right Superior temporal gyrus,CBCL-thought_prob_score,0.042018290340800894,0.9377062293770623,9
+Right Superior temporal gyrus,CBCL-anx_prob_score,0.4022110146500346,0.2973702629737026,9
+Right Superior temporal gyrus,CBCL-internalizing_score,0.2203706386767634,0.5781421857814218,9
+Right Superior temporal gyrus,CBCL-externalizing_score,0.3,0.43255674432556745,9
+Right Superior temporal gyrus,CBCL-total_problems_score,0.5166666666666667,0.1561843815618438,9
+Right Superior temporal gyrus,CBCL-attention_prob_score,0.4537975356806497,0.22177782221777823,9
+Right Superior temporal gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.018300659223579253,0.9683031696830317,12
+Right Superior temporal gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.0727392967453308,0.8888888888888888,7
+Right Superior temporal gyrus,"V24 ADOS_Derived,social_affect_total",0.1174563179317042,0.696930306969303,12
+Right Superior temporal gyrus,"V36 ADOS_Derived,social_affect_total",0.10811249552346709,0.8222222222222222,7
+Right Precentral gyrus,CBCL-social_prob_score,0.3847235792304679,0.2993700629937006,9
+Right Precentral gyrus,CBCL-thought_prob_score,0.6975036196572949,0.0451954804519548,9
+Right Precentral gyrus,CBCL-anx_prob_score,0.6907536990728855,0.0481951804819518,9
+Right Precentral gyrus,CBCL-internalizing_score,0.5763539780776888,0.11478852114788521,9
+Right Precentral gyrus,CBCL-externalizing_score,0.48333333333333334,0.192980701929807,9
+Right Precentral gyrus,CBCL-total_problems_score,0.7,0.0423957604239576,9
+Right Precentral gyrus,CBCL-attention_prob_score,0.705907277725455,0.038196180381961806,9
+Right Precentral gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.10614382349675966,0.7521247875212479,12
+Right Precentral gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.4000661320993194,0.37936507936507935,7
+Right Precentral gyrus,"V24 ADOS_Derived,social_affect_total",0.1174563179317042,0.7055294470552945,12
+Right Precentral gyrus,"V36 ADOS_Derived,social_affect_total",0.7207499701564473,0.07777777777777778,7
+Left Precentral gyrus,CBCL-social_prob_score,0.3410049906815511,0.35936406359364065,9
+Left Precentral gyrus,CBCL-thought_prob_score,0.6386780131801736,0.07219278072192781,9
+Left Precentral gyrus,CBCL-anx_prob_score,0.699497416782669,0.043795620437956206,9
+Left Precentral gyrus,CBCL-internalizing_score,0.5424508028966483,0.1321867813218678,9
+Left Precentral gyrus,CBCL-externalizing_score,0.3666666666666667,0.33596640335966405,9
+Left Precentral gyrus,CBCL-total_problems_score,0.6166666666666666,0.08359164083591641,9
+Left Precentral gyrus,CBCL-attention_prob_score,0.6638889873846542,0.061193880611938804,9
+Left Precentral gyrus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.1390850100992023,0.6755324467553244,12
+Left Precentral gyrus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.490990253030983,0.26825396825396824,7
+Left Precentral gyrus,"V24 ADOS_Derived,social_affect_total",0.17796411807833973,0.5755424457554245,12
+Left Precentral gyrus,"V36 ADOS_Derived,social_affect_total",0.6486749731408026,0.1261904761904762,7
+Right Anterior cingulate and paracingulate gyri,CBCL-social_prob_score,-0.1661306364858839,0.6765323467653235,9
+Right Anterior cingulate and paracingulate gyri,CBCL-thought_prob_score,0.22689876784032484,0.5583441655834417,9
+Right Anterior cingulate and paracingulate gyri,CBCL-anx_prob_score,0.4809044740380849,0.208979102089791,9
+Right Anterior cingulate and paracingulate gyri,CBCL-internalizing_score,0.18646746349572288,0.6267373262673732,9
+Right Anterior cingulate and paracingulate gyri,CBCL-externalizing_score,0.13333333333333333,0.7425257474252575,9
+Right Anterior cingulate and paracingulate gyri,CBCL-total_problems_score,0.35,0.3551644835516448,9
+Right Anterior cingulate and paracingulate gyri,CBCL-attention_prob_score,0.3025316904537665,0.42995700429957007,9
+Right Anterior cingulate and paracingulate gyri,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.09150329611789626,0.7769223077692231,12
+Right Anterior cingulate and paracingulate gyri,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.23640271442232513,0.6,7
+Right Anterior cingulate and paracingulate gyri,"V24 ADOS_Derived,social_affect_total",-0.09610062376230345,0.7563243675632437,12
+Right Anterior cingulate and paracingulate gyri,"V36 ADOS_Derived,social_affect_total",0.4504687313477795,0.3111111111111111,7
+Right Lobule VI of cerebellar hemisphere,CBCL-social_prob_score,0.6907536990728855,0.043995600439956005,9
+Right Lobule VI of cerebellar hemisphere,CBCL-thought_prob_score,0.4537975356806497,0.21997800219978003,9
+Right Lobule VI of cerebellar hemisphere,CBCL-anx_prob_score,0.052462306258700166,0.9087091290870913,9
+Right Lobule VI of cerebellar hemisphere,CBCL-internalizing_score,0.08475793795260131,0.8405159484051595,9
+Right Lobule VI of cerebellar hemisphere,CBCL-externalizing_score,0.6333333333333333,0.07379262073792621,9
+Right Lobule VI of cerebellar hemisphere,CBCL-total_problems_score,0.45,0.2211778822117788,9
+Right Lobule VI of cerebellar hemisphere,CBCL-attention_prob_score,0.42858656147616914,0.25277472252774724,9
+Right Lobule VI of cerebellar hemisphere,"V24 ADOS_Derived,restricted_repetitive_behavior_total",0.14640527378863402,0.6425357464253575,12
+Right Lobule VI of cerebellar hemisphere,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.6182840223353118,0.1523809523809524,7
+Right Lobule VI of cerebellar hemisphere,"V24 ADOS_Derived,social_affect_total",0.007118564723133589,0.9955004499550045,12
+Right Lobule VI of cerebellar hemisphere,"V36 ADOS_Derived,social_affect_total",0.3783937343321348,0.40476190476190477,7
+Left Lobule VI of cerebellar hemisphere,CBCL-social_prob_score,-0.12241204793696706,0.7659234076592341,9
+Left Lobule VI of cerebellar hemisphere,CBCL-thought_prob_score,0.14286218715872304,0.7067293270672933,9
+Left Lobule VI of cerebellar hemisphere,CBCL-anx_prob_score,0.4809044740380849,0.194980501949805,9
+Left Lobule VI of cerebellar hemisphere,CBCL-internalizing_score,0.13561270072416207,0.7337266273372662,9
+Left Lobule VI of cerebellar hemisphere,CBCL-externalizing_score,0.13333333333333333,0.7411258874112588,9
+Left Lobule VI of cerebellar hemisphere,CBCL-total_problems_score,0.3666666666666667,0.3341665833416658,9
+Left Lobule VI of cerebellar hemisphere,CBCL-attention_prob_score,0.32774266465824703,0.39136086391360864,9
+Left Lobule VI of cerebellar hemisphere,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.2598693609748254,0.40855914408559146,12
+Left Lobule VI of cerebellar hemisphere,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.4182509562856521,0.3523809523809524,7
+Left Lobule VI of cerebellar hemisphere,"V24 ADOS_Derived,social_affect_total",0.028474258892534354,0.9517048295170483,12
+Left Lobule VI of cerebellar hemisphere,"V36 ADOS_Derived,social_affect_total",0.43244998209386837,0.3261904761904762,7
+Right Precuneus,CBCL-social_prob_score,-0.410954732359818,0.275972402759724,9
+Right Precuneus,CBCL-thought_prob_score,-0.19328413556768412,0.626937306269373,9
+Right Precuneus,CBCL-anx_prob_score,0.08743717709783362,0.8323167683231677,9
+Right Precuneus,CBCL-internalizing_score,-0.2203706386767634,0.5713428657134286,9
+Right Precuneus,CBCL-externalizing_score,-0.13333333333333333,0.7357264273572642,9
+Right Precuneus,CBCL-total_problems_score,0.016666666666666666,0.9819018098190181,9
+Right Precuneus,CBCL-attention_prob_score,-0.06722926454528144,0.8737126287371263,9
+Right Precuneus,"V24 ADOS_Derived,restricted_repetitive_behavior_total",-0.21960791068295105,0.4851514848515148,12
+Right Precuneus,"V36 ADOS_Derived,restricted_repetitive_behavior_total",0.36369648372665403,0.4238095238095238,7
+Right Precuneus,"V24 ADOS_Derived,social_affect_total",0.08542277667760305,0.8043195680431957,12
+Right Precuneus,"V36 ADOS_Derived,social_affect_total",0.23424374030084535,0.6134920634920635,7

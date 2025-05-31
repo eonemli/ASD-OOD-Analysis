@@ -1,0 +1,17 @@
+scipy
+normflows
+einops
+FrEIA
+tensorboard
+monai[nibabel]
+torchvision
+antspynet
+ninja
+torchinfo
+wandb==0.16.0
+black
+seaborn
+ml-collections~=0.1.0
+isort
+pre-commit
+scikit-image

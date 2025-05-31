@@ -1,0 +1,681 @@
+ROI,Behavior,Corr,p-value,nsamples
+Left Crus II of cerebellar hemisphere,CBCL-aggr_behav_score,0.046695570991455375,0.9099090090990901,12
+Left Crus II of cerebellar hemisphere,CBCL-anx_prob_score,-0.3663806339329575,0.24497550244975502,12
+Left Crus II of cerebellar hemisphere,CBCL-anxious_score,-0.22302596709496972,0.47835216478352166,12
+Left Crus II of cerebellar hemisphere,CBCL-attention_hyper_prob_score,0.24869962986467675,0.45155484451554845,12
+Left Crus II of cerebellar hemisphere,CBCL-attention_prob_score,0.04248113658951804,0.9125087491250875,12
+Left Crus II of cerebellar hemisphere,CBCL-conduct_prob_score,0.2819564645836314,0.387961203879612,12
+Left Crus II of cerebellar hemisphere,CBCL-depressed_score,-0.2672891353782325,0.39316068393160686,12
+Left Crus II of cerebellar hemisphere,CBCL-depressive_prob_score,-0.6734642594277164,0.015398460153984602,12
+Left Crus II of cerebellar hemisphere,CBCL-externalizing_score,0.04240520956441317,0.9133086691330867,12
+Left Crus II of cerebellar hemisphere,CBCL-internalizing_score,-0.22887891494129958,0.47235276472352766,12
+Left Crus II of cerebellar hemisphere,CBCL-obsessive_comp_prob_score,-0.11073971356787222,0.7323267673232676,12
+Left Crus II of cerebellar hemisphere,CBCL-oppo_def_prob_score,-0.021918841094807264,0.9339066093390661,12
+Left Crus II of cerebellar hemisphere,CBCL-rule_break_behav_score,0.11712421903090722,0.7123287671232876,12
+Left Crus II of cerebellar hemisphere,CBCL-sluggish_cogn_tempo_score,-0.26352949281954124,0.407959204079592,12
+Left Crus II of cerebellar hemisphere,CBCL-social_prob_score,0.20041198377813219,0.5449455054494551,12
+Left Crus II of cerebellar hemisphere,CBCL-som_comp_score,-0.12883627528594213,0.6801319868013199,12
+Left Crus II of cerebellar hemisphere,CBCL-som_prob_score,-0.33117413627870296,0.291970802919708,12
+Left Crus II of cerebellar hemisphere,CBCL-stress_prob_score,-0.3858703240214556,0.2171782821717828,12
+Left Crus II of cerebellar hemisphere,CBCL-thought_prob_score,0.33984909271614433,0.28257174282571745,12
+Left Crus II of cerebellar hemisphere,CBCL-total_problems_score,-0.028021058733533853,0.9171082891710829,12
+Right Crus II of cerebellar hemisphere,CBCL-aggr_behav_score,0.16523048196976514,0.6127387261273872,12
+Right Crus II of cerebellar hemisphere,CBCL-anx_prob_score,-0.269397524950704,0.3965603439656034,12
+Right Crus II of cerebellar hemisphere,CBCL-anxious_score,0.1309835044843473,0.6861313868613139,12
+Right Crus II of cerebellar hemisphere,CBCL-attention_hyper_prob_score,-0.04618707411772568,0.8751124887511249,12
+Right Crus II of cerebellar hemisphere,CBCL-attention_prob_score,0.35400947157931706,0.26117388261173885,12
+Right Crus II of cerebellar hemisphere,CBCL-conduct_prob_score,0.10573367421886176,0.7487251274872513,12
+Right Crus II of cerebellar hemisphere,CBCL-depressed_score,0.22755696660579253,0.46435356464353567,12
+Right Crus II of cerebellar hemisphere,CBCL-depressive_prob_score,-0.06954250504960115,0.8295170482951705,12
+Right Crus II of cerebellar hemisphere,CBCL-externalizing_score,0.1484182334754461,0.6441355864413558,12
+Right Crus II of cerebellar hemisphere,CBCL-internalizing_score,0.24296377124537955,0.44075592440755923,12
+Right Crus II of cerebellar hemisphere,CBCL-obsessive_comp_prob_score,0.28935215480637577,0.3631636836316368,12
+Right Crus II of cerebellar hemisphere,CBCL-oppo_def_prob_score,-0.021918841094807264,0.9559044095590441,12
+Right Crus II of cerebellar hemisphere,CBCL-rule_break_behav_score,0.18666672408050836,0.5597440255974403,12
+Right Crus II of cerebellar hemisphere,CBCL-sluggish_cogn_tempo_score,0.5270589856390825,0.0827917208279172,12
+Right Crus II of cerebellar hemisphere,CBCL-social_prob_score,0.16104534410742763,0.6253374662533746,12
+Right Crus II of cerebellar hemisphere,CBCL-som_comp_score,-0.03578785424609504,0.9191080891910809,12
+Right Crus II of cerebellar hemisphere,CBCL-som_prob_score,-0.28386354538174535,0.36396360363963604,12
+Right Crus II of cerebellar hemisphere,CBCL-stress_prob_score,-0.04602123130531122,0.8931106889311069,12
+Right Crus II of cerebellar hemisphere,CBCL-thought_prob_score,0.30444814555821265,0.33636636336366366,12
+Right Crus II of cerebellar hemisphere,CBCL-total_problems_score,0.14010529366766927,0.6617338266173383,12
+Right Amygdala,CBCL-aggr_behav_score,0.08620720798422528,0.7903209679032097,12
+Right Amygdala,CBCL-anx_prob_score,0.0,0.9943005699430058,12
+Right Amygdala,CBCL-anxious_score,0.00708018943158634,0.9865013498650135,12
+Right Amygdala,CBCL-attention_hyper_prob_score,0.07816274081461269,0.8155184481551845,12
+Right Amygdala,CBCL-attention_prob_score,0.14514388334752001,0.6551344865513449,12
+Right Amygdala,CBCL-conduct_prob_score,-0.16447460434045164,0.6161383861613838,12
+Right Amygdala,CBCL-depressed_score,0.1806007671474544,0.5903409659034097,12
+Right Amygdala,CBCL-depressive_prob_score,0.318431470490279,0.3077692230776922,12
+Right Amygdala,CBCL-externalizing_score,-0.045938977028114274,0.8973102689731027,12
+Right Amygdala,CBCL-internalizing_score,0.18310313195303968,0.5593440655934406,12
+Right Amygdala,CBCL-obsessive_comp_prob_score,-0.06787272767063135,0.8269173082691731,12
+Right Amygdala,CBCL-oppo_def_prob_score,0.10959420547403634,0.7153284671532847,12
+Right Amygdala,CBCL-rule_break_behav_score,-0.13542487825448649,0.6757324267573243,12
+Right Amygdala,CBCL-sluggish_cogn_tempo_score,0.2488889654406778,0.41575842415758424,12
+Right Amygdala,CBCL-social_prob_score,0.06083935221836156,0.8461153884611539,12
+Right Amygdala,CBCL-som_comp_score,0.6692328744019772,0.019598040195980403,12
+Right Amygdala,CBCL-som_prob_score,0.6041198529919197,0.039996000399960006,12
+Right Amygdala,CBCL-stress_prob_score,0.08850236789482926,0.7817218278172183,12
+Right Amygdala,CBCL-thought_prob_score,0.5628750598111141,0.058394160583941604,12
+Right Amygdala,CBCL-total_problems_score,0.3187395430939476,0.3077692230776922,12
+Left Crus I of cerebellar hemisphere,CBCL-aggr_behav_score,-0.20474211896253505,0.5387461253874612,12
+Left Crus I of cerebellar hemisphere,CBCL-anx_prob_score,-0.05387950499014081,0.8709129087091291,12
+Left Crus I of cerebellar hemisphere,CBCL-anxious_score,-0.049561326021104385,0.9011098890110989,12
+Left Crus I of cerebellar hemisphere,CBCL-attention_hyper_prob_score,0.1421140742083867,0.6537346265373463,12
+Left Crus I of cerebellar hemisphere,CBCL-attention_prob_score,0.06726179960007023,0.8357164283571643,12
+Left Crus I of cerebellar hemisphere,CBCL-conduct_prob_score,-0.10573367421886176,0.7627237276272373,12
+Left Crus I of cerebellar hemisphere,CBCL-depressed_score,0.3575895189519597,0.24697530246975302,12
+Left Crus I of cerebellar hemisphere,CBCL-depressive_prob_score,0.13176474640977062,0.6763323667633236,12
+Left Crus I of cerebellar hemisphere,CBCL-externalizing_score,-0.24382995499537574,0.45335466453354667,12
+Left Crus I of cerebellar hemisphere,CBCL-internalizing_score,0.08450913782447984,0.7805219478052194,12
+Left Crus I of cerebellar hemisphere,CBCL-obsessive_comp_prob_score,-0.16432344593942327,0.6081391860813918,12
+Left Crus I of cerebellar hemisphere,CBCL-oppo_def_prob_score,-0.20457585021820113,0.5469453054694531,12
+Left Crus I of cerebellar hemisphere,CBCL-rule_break_behav_score,-0.10248369165204381,0.7411258874112588,12
+Left Crus I of cerebellar hemisphere,CBCL-sluggish_cogn_tempo_score,-0.06588237320488531,0.8571142885711429,12
+Left Crus I of cerebellar hemisphere,CBCL-social_prob_score,-0.14315141698438016,0.6573342665733427,12
+Left Crus I of cerebellar hemisphere,CBCL-som_comp_score,0.2540937651472748,0.42115788421157885,12
+Left Crus I of cerebellar hemisphere,CBCL-som_prob_score,0.08006407690254358,0.8195180481951805,12
+Left Crus I of cerebellar hemisphere,CBCL-stress_prob_score,-0.1062028414737951,0.7499250074992501,12
+Left Crus I of cerebellar hemisphere,CBCL-thought_prob_score,0.29028776669504003,0.36276372362763726,12
+Left Crus I of cerebellar hemisphere,CBCL-total_problems_score,0.06304738215045116,0.8581141885811419,12
+Right Crus I of cerebellar hemisphere,CBCL-aggr_behav_score,0.3627886669336148,0.24377562243775622,12
+Right Crus I of cerebellar hemisphere,CBCL-anx_prob_score,0.34123686493755845,0.28057194280571945,12
+Right Crus I of cerebellar hemisphere,CBCL-anxious_score,0.5734953439584937,0.05399460053994601,12
+Right Crus I of cerebellar hemisphere,CBCL-attention_hyper_prob_score,0.32686237067928936,0.2967703229677032,12
+Right Crus I of cerebellar hemisphere,CBCL-attention_prob_score,0.27966748254766044,0.3705629437056294,12
+Right Crus I of cerebellar hemisphere,CBCL-conduct_prob_score,0.15272641831613365,0.628937106289371,12
+Right Crus I of cerebellar hemisphere,CBCL-depressed_score,0.5815344702148031,0.047595240475952406,12
+Right Crus I of cerebellar hemisphere,CBCL-depressive_prob_score,0.24156870175124612,0.43855614438556145,12
+Right Crus I of cerebellar hemisphere,CBCL-externalizing_score,0.33924167651530535,0.27577242275772423,12
+Right Crus I of cerebellar hemisphere,CBCL-internalizing_score,0.6232548914555388,0.031996800319968,12
+Right Crus I of cerebellar hemisphere,CBCL-obsessive_comp_prob_score,0.2250516759605145,0.4931506849315068,12
+Right Crus I of cerebellar hemisphere,CBCL-oppo_def_prob_score,0.32512947623964117,0.30416958304169583,12
+Right Crus I of cerebellar hemisphere,CBCL-rule_break_behav_score,0.18300659223579252,0.5595440455954405,12
+Right Crus I of cerebellar hemisphere,CBCL-sluggish_cogn_tempo_score,0.6771243912724324,0.020597940205979402,12
+Right Crus I of cerebellar hemisphere,CBCL-social_prob_score,0.14315141698438016,0.6415358464153584,12
+Right Crus I of cerebellar hemisphere,CBCL-som_comp_score,0.475978461473064,0.11818818118188182,12
+Right Crus I of cerebellar hemisphere,CBCL-som_prob_score,0.33481341250154584,0.28357164283571645,12
+Right Crus I of cerebellar hemisphere,CBCL-stress_prob_score,0.5734953439584937,0.057394260573942604,12
+Right Crus I of cerebellar hemisphere,CBCL-thought_prob_score,0.3221486191371785,0.3077692230776922,12
+Right Crus I of cerebellar hemisphere,CBCL-total_problems_score,0.44833693973654165,0.1501849815018498,12
+Right Superior parietal gyrus,CBCL-aggr_behav_score,-0.21551801996056325,0.4861513848615138,12
+Right Superior parietal gyrus,CBCL-anx_prob_score,-0.7040255318711733,0.013798620137986202,12
+Right Superior parietal gyrus,CBCL-anxious_score,-0.3964906081688351,0.20537946205379462,12
+Right Superior parietal gyrus,CBCL-attention_hyper_prob_score,0.05329277782814502,0.8649135086491351,12
+Right Superior parietal gyrus,CBCL-attention_prob_score,0.05310142073689755,0.8707129287071292,12
+Right Superior parietal gyrus,CBCL-conduct_prob_score,0.0,1.0,12
+Right Superior parietal gyrus,CBCL-depressed_score,-0.44788990252568694,0.14578542145785423,12
+Right Superior parietal gyrus,CBCL-depressive_prob_score,-0.25254909728539365,0.44475552444755523,12
+Right Superior parietal gyrus,CBCL-externalizing_score,-0.2933026994871911,0.34496550344965504,12
+Right Superior parietal gyrus,CBCL-internalizing_score,-0.510576041022899,0.09199080091990801,12
+Right Superior parietal gyrus,CBCL-obsessive_comp_prob_score,0.19647368536235393,0.5303469653034697,12
+Right Superior parietal gyrus,CBCL-oppo_def_prob_score,-0.3397420369695126,0.27417258274172585,12
+Right Superior parietal gyrus,CBCL-rule_break_behav_score,-0.26718962466425705,0.3955604439556044,12
+Right Superior parietal gyrus,CBCL-sluggish_cogn_tempo_score,-0.018300659223579253,0.9559044095590441,12
+Right Superior parietal gyrus,CBCL-social_prob_score,0.16104534410742763,0.6125387461253875,12
+Right Superior parietal gyrus,CBCL-som_comp_score,-0.4258754655285309,0.16518348165183483,12
+Right Superior parietal gyrus,CBCL-som_prob_score,-0.41851676562693235,0.17538246175382463,12
+Right Superior parietal gyrus,CBCL-stress_prob_score,-0.4000307028846282,0.208979102089791,12
+Right Superior parietal gyrus,CBCL-thought_prob_score,-0.017700473578965852,0.9531046895310469,12
+Right Superior parietal gyrus,CBCL-total_problems_score,-0.28021058733533855,0.37696230376962303,12
+Left Amygdala,CBCL-aggr_behav_score,-0.039511636992769925,0.9133086691330867,12
+Left Amygdala,CBCL-anx_prob_score,-0.2801734259487322,0.38096190380961903,12
+Left Amygdala,CBCL-anxious_score,-0.25842691425290143,0.42295770422957707,12
+Left Amygdala,CBCL-attention_hyper_prob_score,0.341073778100128,0.2565743425657434,12
+Left Amygdala,CBCL-attention_prob_score,0.18408492522124487,0.5481451854814519,12
+Left Amygdala,CBCL-conduct_prob_score,-0.09398548819454378,0.7797220277972203,12
+Left Amygdala,CBCL-depressed_score,-0.4189937797820941,0.18538146185381463,12
+Left Amygdala,CBCL-depressive_prob_score,0.09150329611789626,0.7689231076892311,12
+Left Amygdala,CBCL-externalizing_score,-0.05654027941921756,0.8643135686431357,12
+Left Amygdala,CBCL-internalizing_score,-0.3697274779820993,0.2505749425057494,12
+Left Amygdala,CBCL-obsessive_comp_prob_score,-0.05358373237155108,0.8735126487351265,12
+Left Amygdala,CBCL-oppo_def_prob_score,-0.10228792510910056,0.7663233676632337,12
+Left Amygdala,CBCL-rule_break_behav_score,-0.13542487825448649,0.6777322267773223,12
+Left Amygdala,CBCL-sluggish_cogn_tempo_score,0.15006540563334989,0.6363363663633637,12
+Left Amygdala,CBCL-social_prob_score,0.3185119027902458,0.30316968303169683,12
+Left Amygdala,CBCL-som_comp_score,0.11452113358750411,0.7239276072392761,12
+Left Amygdala,CBCL-som_prob_score,0.16740670625077292,0.5981401859814018,12
+Left Amygdala,CBCL-stress_prob_score,0.02124056829475902,0.9505049495050495,12
+Left Amygdala,CBCL-thought_prob_score,0.44959202890573263,0.141985801419858,12
+Left Amygdala,CBCL-total_problems_score,0.1576184553761279,0.6163383661633837,12
+Left Superior parietal gyrus,CBCL-aggr_behav_score,-0.308909161943474,0.3311668833116688,12
+Left Superior parietal gyrus,CBCL-anx_prob_score,-0.6896576638738022,0.015198480151984802,12
+Left Superior parietal gyrus,CBCL-anxious_score,-0.49207316549525065,0.11338866113388661,12
+Left Superior parietal gyrus,CBCL-attention_hyper_prob_score,0.06039848153856435,0.8569143085691431,12
+Left Superior parietal gyrus,CBCL-attention_prob_score,-0.12036322033696778,0.7165283471652835,12
+Left Superior parietal gyrus,CBCL-conduct_prob_score,-0.07048911614590785,0.8249175082491751,12
+Left Superior parietal gyrus,CBCL-depressed_score,-0.1842127824904035,0.5607439256074392,12
+Left Superior parietal gyrus,CBCL-depressive_prob_score,-0.05856210951545361,0.8609139086091391,12
+Left Superior parietal gyrus,CBCL-externalizing_score,-0.3498429789064087,0.25517448255174485,12
+Left Superior parietal gyrus,CBCL-internalizing_score,-0.514097255098919,0.08359164083591641,12
+Left Superior parietal gyrus,CBCL-obsessive_comp_prob_score,-0.2714909106825254,0.39616038396160386,12
+Left Superior parietal gyrus,CBCL-oppo_def_prob_score,-0.40915170043640225,0.18618138186181382,12
+Left Superior parietal gyrus,CBCL-rule_break_behav_score,-0.3367321297138582,0.272972702729727,12
+Left Superior parietal gyrus,CBCL-sluggish_cogn_tempo_score,-0.19398698776994008,0.5427457254274572,12
+Left Superior parietal gyrus,CBCL-social_prob_score,0.15746655868281817,0.6287371262873712,12
+Left Superior parietal gyrus,CBCL-som_comp_score,-0.42945425095314044,0.15578442155784422,12
+Left Superior parietal gyrus,CBCL-som_prob_score,-0.5349736047579048,0.07179282071792821,12
+Left Superior parietal gyrus,CBCL-stress_prob_score,-0.4212712711793873,0.17318268173182683,12
+Left Superior parietal gyrus,CBCL-thought_prob_score,-0.1557641674948995,0.632936706329367,12
+Left Superior parietal gyrus,CBCL-total_problems_score,-0.2837132196770302,0.3685631436856314,12
+Left Fusiform gyrus,CBCL-aggr_behav_score,0.308909161943474,0.32756724327567244,12
+Left Fusiform gyrus,CBCL-anx_prob_score,-0.1221268779776525,0.7093290670932907,12
+Left Fusiform gyrus,CBCL-anxious_score,0.04602123130531122,0.8817118288171183,12
+Left Fusiform gyrus,CBCL-attention_hyper_prob_score,0.6430661857929497,0.027997200279972004,12
+Left Fusiform gyrus,CBCL-attention_prob_score,0.2938278614108331,0.35376462353764626,12
+Left Fusiform gyrus,CBCL-conduct_prob_score,0.07048911614590785,0.8325167483251675,12
+Left Fusiform gyrus,CBCL-depressed_score,-0.09752441425962537,0.7487251274872513,12
+Left Fusiform gyrus,CBCL-depressive_prob_score,-0.08052290058374871,0.8045195480451954,12
+Left Fusiform gyrus,CBCL-externalizing_score,0.24029618753167462,0.44095590440955906,12
+Left Fusiform gyrus,CBCL-internalizing_score,-0.017606070380099967,0.9687031296870313,12
+Left Fusiform gyrus,CBCL-obsessive_comp_prob_score,0.007144497649540143,1.0,12
+Left Fusiform gyrus,CBCL-oppo_def_prob_score,0.39088599952406294,0.203979602039796,12
+Left Fusiform gyrus,CBCL-rule_break_behav_score,-0.051241845826021905,0.8795120487951205,12
+Left Fusiform gyrus,CBCL-sluggish_cogn_tempo_score,0.20862751514880346,0.49675032496750327,12
+Left Fusiform gyrus,CBCL-social_prob_score,0.35787854246095036,0.24417558244175583,12
+Left Fusiform gyrus,CBCL-som_comp_score,0.2898816193933698,0.35176482351764826,12
+Left Fusiform gyrus,CBCL-som_prob_score,0.2547493355990023,0.42395760423957607,12
+Left Fusiform gyrus,CBCL-stress_prob_score,0.21948587237917658,0.48055194480551944,12
+Left Fusiform gyrus,CBCL-thought_prob_score,0.6124363858322185,0.04079592040795921,12
+Left Fusiform gyrus,CBCL-total_problems_score,0.4518395720782334,0.13338666133386662,12
+Right Posterior cingulate gyrus,CBCL-aggr_behav_score,0.028735735994741763,0.9577042295770423,12
+Right Posterior cingulate gyrus,CBCL-anx_prob_score,0.17959834996713606,0.5827417258274172,12
+Right Posterior cingulate gyrus,CBCL-anxious_score,0.28320757726345364,0.38396160383961603,12
+Right Posterior cingulate gyrus,CBCL-attention_hyper_prob_score,0.13856122235317703,0.6583341665833417,12
+Right Posterior cingulate gyrus,CBCL-attention_prob_score,0.3717099451582828,0.23157684231576842,12
+Right Posterior cingulate gyrus,CBCL-conduct_prob_score,-0.10573367421886176,0.7395260473952605,12
+Right Posterior cingulate gyrus,CBCL-depressed_score,-0.37564959566670514,0.22037796220377961,12
+Right Posterior cingulate gyrus,CBCL-depressive_prob_score,-0.06222224136016945,0.8479152084791521,12
+Right Posterior cingulate gyrus,CBCL-externalizing_score,0.03180390717330988,0.9575042495750425,12
+Right Posterior cingulate gyrus,CBCL-internalizing_score,-0.11620006450865979,0.7005299470052995,12
+Right Posterior cingulate gyrus,CBCL-obsessive_comp_prob_score,0.7787502437998757,0.003999600039996,12
+Right Posterior cingulate gyrus,CBCL-oppo_def_prob_score,0.05114396255455028,0.8885111488851115,12
+Right Posterior cingulate gyrus,CBCL-rule_break_behav_score,0.09882355980732796,0.7505249475052495,12
+Right Posterior cingulate gyrus,CBCL-sluggish_cogn_tempo_score,0.3257517341797107,0.2933706629337066,12
+Right Posterior cingulate gyrus,CBCL-social_prob_score,-0.1037847773136756,0.7685231476852314,12
+Right Posterior cingulate gyrus,CBCL-som_comp_score,-0.11452113358750411,0.7315268473152685,12
+Right Posterior cingulate gyrus,CBCL-som_prob_score,0.21835657337057343,0.47875212478752127,12
+Right Posterior cingulate gyrus,CBCL-stress_prob_score,0.1557641674948995,0.6109389061093891,12
+Right Posterior cingulate gyrus,CBCL-thought_prob_score,0.3256887138529716,0.2973702629737026,12
+Right Posterior cingulate gyrus,CBCL-total_problems_score,0.1541158230344362,0.6205379462053795,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-aggr_behav_score,-0.38793243592901383,0.207979202079792,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-anx_prob_score,-0.438219973919812,0.1573842615738426,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-anxious_score,-0.332768903284558,0.280971902809719,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-attention_hyper_prob_score,-0.17408974090527374,0.5891410858914109,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-attention_prob_score,-0.14514388334752001,0.6507349265073493,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-conduct_prob_score,-0.23496372048635947,0.44615538446155384,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-depressed_score,0.06501627617308359,0.8431156884311569,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-depressive_prob_score,0.36601318447158504,0.24037596240375964,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-externalizing_score,-0.4417209329626372,0.14778522147785222,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-internalizing_score,-0.36620626390607935,0.24017598240175983,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-obsessive_comp_prob_score,-0.24291292008436485,0.4467553244675532,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-oppo_def_prob_score,-0.47125508353835627,0.12958704129587043,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-rule_break_behav_score,-0.35137265709272164,0.24977502249775022,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-sluggish_cogn_tempo_score,-0.10980395534147552,0.7383261673832616,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-social_prob_score,-0.028630283396876028,0.9175082491750824,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-som_comp_score,-0.3077755465164173,0.3233676632336766,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-som_prob_score,-0.30205992649595986,0.31916808319168083,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-stress_prob_score,-0.3079882402740058,0.31396860313968605,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-thought_prob_score,-0.29028776669504003,0.3545645435456454,12
+"Left Superior frontal gyrus, dorsolateral",CBCL-total_problems_score,-0.2451842639184212,0.42315768423157685,12
+Right Cuneus,CBCL-aggr_behav_score,-0.3807485019303284,0.21177882211778823,12
+Right Cuneus,CBCL-anx_prob_score,-0.7076174988705161,0.010998900109989001,12
+Right Cuneus,CBCL-anxious_score,-0.3964906081688351,0.1887811218878112,12
+Right Cuneus,CBCL-attention_hyper_prob_score,-0.06039848153856435,0.8497150284971503,12
+Right Cuneus,CBCL-attention_prob_score,0.11682312562117463,0.7221277872212779,12
+Right Cuneus,CBCL-conduct_prob_score,-0.3054528366322673,0.32636736326367366,12
+Right Cuneus,CBCL-depressed_score,-0.23839301263463977,0.43955604439556045,12
+Right Cuneus,CBCL-depressive_prob_score,0.0036601318447158507,0.9961003899610039,12
+Right Cuneus,CBCL-externalizing_score,-0.4664573052085449,0.11938806119388061,12
+Right Cuneus,CBCL-internalizing_score,-0.4436729735785192,0.14338566143385661,12
+Right Cuneus,CBCL-obsessive_comp_prob_score,0.30364115010545606,0.33356664333566644,12
+Right Cuneus,CBCL-oppo_def_prob_score,-0.44202996207861317,0.1411858814118588,12
+Right Cuneus,CBCL-rule_break_behav_score,-0.4355556895211862,0.1523847615238476,12
+Right Cuneus,CBCL-sluggish_cogn_tempo_score,0.09516342796261212,0.7797220277972203,12
+Right Cuneus,CBCL-social_prob_score,-0.08231206476601857,0.7897210278972103,12
+Right Cuneus,CBCL-som_comp_score,-0.44734817807618793,0.140985901409859,12
+Right Cuneus,CBCL-som_prob_score,-0.44035242296398963,0.15478452154784522,12
+Right Cuneus,CBCL-stress_prob_score,-0.39295051345304194,0.20017998200179982,12
+Right Cuneus,CBCL-thought_prob_score,-0.02124056829475902,0.9407059294070593,12
+Right Cuneus,CBCL-total_problems_score,-0.3117342784105641,0.31516848315168483,12
+Right Fusiform gyrus,CBCL-aggr_behav_score,0.04310360399211264,0.8897110288971103,12
+Right Fusiform gyrus,CBCL-anx_prob_score,-0.17959834996713606,0.5785421457854215,12
+Right Fusiform gyrus,CBCL-anxious_score,-0.14160378863172682,0.6613338666133387,12
+Right Fusiform gyrus,CBCL-attention_hyper_prob_score,0.19185400018132204,0.5489451054894511,12
+Right Fusiform gyrus,CBCL-attention_prob_score,-0.0814221784632429,0.8127187281271873,12
+Right Fusiform gyrus,CBCL-conduct_prob_score,-0.07048911614590785,0.8523147685231477,12
+Right Fusiform gyrus,CBCL-depressed_score,-0.23839301263463977,0.44715528447155284,12
+Right Fusiform gyrus,CBCL-depressive_prob_score,-0.19398698776994008,0.5431456854314568,12
+Right Fusiform gyrus,CBCL-externalizing_score,-0.08481041912882634,0.8035196480351965,12
+Right Fusiform gyrus,CBCL-internalizing_score,-0.15845463342089972,0.6159384061593841,12
+Right Fusiform gyrus,CBCL-obsessive_comp_prob_score,-0.03572248824770072,0.9165083491650835,12
+Right Fusiform gyrus,CBCL-oppo_def_prob_score,0.10959420547403634,0.7313268673132687,12
+Right Fusiform gyrus,CBCL-rule_break_behav_score,-0.25254909728539365,0.4423557644235576,12
+Right Fusiform gyrus,CBCL-sluggish_cogn_tempo_score,-0.007320263689431701,0.9855014498550145,12
+Right Fusiform gyrus,CBCL-social_prob_score,0.09662720646445659,0.7653234676532347,12
+Right Fusiform gyrus,CBCL-som_comp_score,0.34356340076251235,0.26717328267173285,12
+Right Fusiform gyrus,CBCL-som_prob_score,0.3530097936157603,0.250974902509749,12
+Right Fusiform gyrus,CBCL-stress_prob_score,-0.10266274675800194,0.7507249275072493,12
+Right Fusiform gyrus,CBCL-thought_prob_score,0.41419108174780095,0.1797820217978202,12
+Right Fusiform gyrus,CBCL-total_problems_score,0.09106844088398502,0.7663233676632337,12
+Left Cuneus,CBCL-aggr_behav_score,-0.17241441596845056,0.5831416858314169,12
+Left Cuneus,CBCL-anx_prob_score,-0.5711227528954926,0.051994800519948,12
+Left Cuneus,CBCL-anxious_score,-0.1805448305054517,0.5603439656034397,12
+Left Cuneus,CBCL-attention_hyper_prob_score,-0.2629110372855154,0.40455954404559547,12
+Left Cuneus,CBCL-attention_prob_score,0.03186085244213853,0.9129087091290871,12
+Left Cuneus,CBCL-conduct_prob_score,-0.04699274409727189,0.9037096290370963,12
+Left Cuneus,CBCL-depressed_score,-0.039732168772439964,0.9057094290570943,12
+Left Cuneus,CBCL-depressive_prob_score,-0.32209160233499484,0.3083691630836916,12
+Left Cuneus,CBCL-externalizing_score,-0.23322865260427245,0.46415358464153583,12
+Left Cuneus,CBCL-internalizing_score,-0.20070920233313963,0.5333466653334666,12
+Left Cuneus,CBCL-obsessive_comp_prob_score,0.22862392478528457,0.47495250474952505,12
+Left Cuneus,CBCL-oppo_def_prob_score,-0.3141700556922375,0.31756824317568244,12
+Left Cuneus,CBCL-rule_break_behav_score,-0.10980395534147552,0.7443255674432556,12
+Left Cuneus,CBCL-sluggish_cogn_tempo_score,0.09882355980732796,0.7693230676932307,12
+Left Cuneus,CBCL-social_prob_score,-0.057260566793752056,0.8611138886111389,12
+Left Cuneus,CBCL-som_comp_score,-0.4330330363777499,0.15858414158584141,12
+Left Cuneus,CBCL-som_prob_score,-0.5859234718777052,0.04939506049395061,12
+Left Cuneus,CBCL-stress_prob_score,-0.5203939232215959,0.0851914808519148,12
+Left Cuneus,CBCL-thought_prob_score,0.01416037886317268,0.9511048895110489,12
+Left Cuneus,CBCL-total_problems_score,-0.2556921609434964,0.42275772422757724,12
+"Left Inferior frontal gyrus, triangular part",CBCL-aggr_behav_score,-0.1041670429809389,0.7459254074592541,12
+"Left Inferior frontal gyrus, triangular part",CBCL-anx_prob_score,-0.07543130698619713,0.8153184681531847,12
+"Left Inferior frontal gyrus, triangular part",CBCL-anxious_score,-0.04602123130531122,0.8865113488651135,12
+"Left Inferior frontal gyrus, triangular part",CBCL-attention_hyper_prob_score,-0.07460988895940301,0.8195180481951805,12
+"Left Inferior frontal gyrus, triangular part",CBCL-attention_prob_score,0.08850236789482926,0.7811218878112188,12
+"Left Inferior frontal gyrus, triangular part",CBCL-conduct_prob_score,0.03524455807295392,0.9229077092290771,12
+"Left Inferior frontal gyrus, triangular part",CBCL-depressed_score,-0.15892867508975986,0.6021397860213978,12
+"Left Inferior frontal gyrus, triangular part",CBCL-depressive_prob_score,0.3330719978691424,0.3007699230076992,12
+"Left Inferior frontal gyrus, triangular part",CBCL-externalizing_score,-0.1766883731850549,0.5791420857914209,12
+"Left Inferior frontal gyrus, triangular part",CBCL-internalizing_score,-0.2183152727132396,0.48295170482951705,12
+"Left Inferior frontal gyrus, triangular part",CBCL-obsessive_comp_prob_score,0.10716746474310215,0.7395260473952605,12
+"Left Inferior frontal gyrus, triangular part",CBCL-oppo_def_prob_score,-0.1826570091233939,0.5717428257174283,12
+"Left Inferior frontal gyrus, triangular part",CBCL-rule_break_behav_score,-0.025620922913010952,0.9287071292870713,12
+"Left Inferior frontal gyrus, triangular part",CBCL-sluggish_cogn_tempo_score,-0.06588237320488531,0.8257174282571743,12
+"Left Inferior frontal gyrus, triangular part",CBCL-social_prob_score,0.07515449391679957,0.815918408159184,12
+"Left Inferior frontal gyrus, triangular part",CBCL-som_comp_score,-0.04652421051992355,0.8849115088491151,12
+"Left Inferior frontal gyrus, triangular part",CBCL-som_prob_score,0.18924236358783028,0.5635436456354365,12
+"Left Inferior frontal gyrus, triangular part",CBCL-stress_prob_score,-0.06372170488427706,0.8305169483051695,12
+"Left Inferior frontal gyrus, triangular part",CBCL-thought_prob_score,-0.11682312562117463,0.7043295670432956,12
+"Left Inferior frontal gyrus, triangular part",CBCL-total_problems_score,0.0,0.9963003699630038,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-aggr_behav_score,-0.47054767691389643,0.12438756124387561,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-anx_prob_score,-0.2981332609454458,0.3401659834016598,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-anxious_score,-0.4212712711793873,0.16058394160583941,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-attention_hyper_prob_score,-0.3659437410865957,0.23997600239976002,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-attention_prob_score,-0.3610896610109034,0.24757524247575244,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-conduct_prob_score,-0.21146734843772352,0.5125487451254874,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-depressed_score,0.20227285920514892,0.5421457854214579,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-depressive_prob_score,-0.025620922913010952,0.9359064093590641,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-externalizing_score,-0.5548014918010723,0.05799420057994201,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-internalizing_score,-0.12676370673671977,0.686931306869313,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-obsessive_comp_prob_score,-0.3357913895283867,0.28917108289171084,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-oppo_def_prob_score,-0.42376426116627375,0.1635836416358364,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-rule_break_behav_score,-0.3623530526268692,0.24277572242775722,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-sluggish_cogn_tempo_score,-0.5416995130179459,0.07119288071192881,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-social_prob_score,-0.3972451821316549,0.19358064193580643,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-som_comp_score,-0.007157570849219007,1.0,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-som_prob_score,-0.16376743002793004,0.6221377862213778,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-stress_prob_score,-0.5345543020847687,0.07579242075792421,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-thought_prob_score,-0.2725872931160741,0.38636136386361364,12
+"Right Superior frontal gyrus, dorsolateral",CBCL-total_problems_score,-0.4518395720782334,0.146985301469853,12
+Right Middle frontal gyrus,CBCL-aggr_behav_score,0.2227019539592487,0.47755224477552244,12
+Right Middle frontal gyrus,CBCL-anx_prob_score,0.11853491097830977,0.7071292870712929,12
+Right Middle frontal gyrus,CBCL-anxious_score,0.35400947157931706,0.24797520247975202,12
+Right Middle frontal gyrus,CBCL-attention_hyper_prob_score,0.10303270380108036,0.7631236876312368,12
+Right Middle frontal gyrus,CBCL-attention_prob_score,0.1911651146528312,0.5575442455754425,12
+Right Middle frontal gyrus,CBCL-conduct_prob_score,0.23496372048635947,0.46735326467353266,12
+Right Middle frontal gyrus,CBCL-depressed_score,0.38287362635260336,0.2181781821817818,12
+Right Middle frontal gyrus,CBCL-depressive_prob_score,0.07320263689431701,0.8137186281371863,12
+Right Middle frontal gyrus,CBCL-externalizing_score,0.16255330333025048,0.6093390660933906,12
+Right Middle frontal gyrus,CBCL-internalizing_score,0.2570486275494595,0.411958804119588,12
+Right Middle frontal gyrus,CBCL-obsessive_comp_prob_score,0.11073971356787222,0.7393260673932607,12
+Right Middle frontal gyrus,CBCL-oppo_def_prob_score,0.20092271003573325,0.5173482651734826,12
+Right Middle frontal gyrus,CBCL-rule_break_behav_score,0.21960791068295105,0.48775122487751227,12
+Right Middle frontal gyrus,CBCL-sluggish_cogn_tempo_score,0.08784316427318041,0.7821217878212179,12
+Right Middle frontal gyrus,CBCL-social_prob_score,0.06441813764297107,0.8495150484951505,12
+Right Middle frontal gyrus,CBCL-som_comp_score,0.03220906882148553,0.9191080891910809,12
+Right Middle frontal gyrus,CBCL-som_prob_score,0.02183565733705734,0.9497050294970503,12
+Right Middle frontal gyrus,CBCL-stress_prob_score,0.05664151545269072,0.8695130486951305,12
+Right Middle frontal gyrus,CBCL-thought_prob_score,0.06726179960007023,0.8411158884111589,12
+Right Middle frontal gyrus,CBCL-total_problems_score,0.2767079549936468,0.39076092390760925,12
+Left Middle frontal gyrus,CBCL-aggr_behav_score,-0.17959834996713606,0.5749425057494251,12
+Left Middle frontal gyrus,CBCL-anx_prob_score,-0.039511636992769925,0.9039096090390961,12
+Left Middle frontal gyrus,CBCL-anxious_score,-0.04602123130531122,0.8911108889111089,12
+Left Middle frontal gyrus,CBCL-attention_hyper_prob_score,0.09237414823545136,0.7713228677132287,12
+Left Middle frontal gyrus,CBCL-attention_prob_score,-0.2513467248213151,0.40955904409559046,12
+Left Middle frontal gyrus,CBCL-conduct_prob_score,-0.16447460434045164,0.6083391660833917,12
+Left Middle frontal gyrus,CBCL-depressed_score,0.3359174268942652,0.2703729627037296,12
+Left Middle frontal gyrus,CBCL-depressive_prob_score,-0.13176474640977062,0.686931306869313,12
+Left Middle frontal gyrus,CBCL-externalizing_score,-0.20849228035836478,0.513948605139486,12
+Left Middle frontal gyrus,CBCL-internalizing_score,0.052818211140299914,0.8699130086991301,12
+Left Middle frontal gyrus,CBCL-obsessive_comp_prob_score,-0.200045934187124,0.5327467253274673,12
+Left Middle frontal gyrus,CBCL-oppo_def_prob_score,-0.01826570091233939,0.9677032296770323,12
+Left Middle frontal gyrus,CBCL-rule_break_behav_score,-0.29281054757726804,0.34456554344565543,12
+Left Middle frontal gyrus,CBCL-sluggish_cogn_tempo_score,-0.24156870175124612,0.4527547245275472,12
+Left Middle frontal gyrus,CBCL-social_prob_score,-0.28630283396876033,0.3631636836316368,12
+Left Middle frontal gyrus,CBCL-som_comp_score,-0.03578785424609504,0.9251074892510749,12
+Left Middle frontal gyrus,CBCL-som_prob_score,-0.1746852586964587,0.5881411858814118,12
+Left Middle frontal gyrus,CBCL-stress_prob_score,-0.11328303090538144,0.7271272872712728,12
+Left Middle frontal gyrus,CBCL-thought_prob_score,-0.12390331505276098,0.696930306969303,12
+Left Middle frontal gyrus,CBCL-total_problems_score,-0.14711055835105272,0.6553344665533447,12
+Left Insula,CBCL-aggr_behav_score,0.2801734259487322,0.37776222377762225,12
+Left Insula,CBCL-anx_prob_score,-0.47773161091258187,0.1161883811618838,12
+Left Insula,CBCL-anxious_score,-0.2017853988002107,0.5271472852714728,12
+Left Insula,CBCL-attention_hyper_prob_score,0.5364806301366598,0.07939206079392061,12
+Left Insula,CBCL-attention_prob_score,0.311528334989799,0.32656734326567344,12
+Left Insula,CBCL-conduct_prob_score,0.21146734843772352,0.5241475852414759,12
+Left Insula,CBCL-depressed_score,-0.34314145758016334,0.2725727427257274,12
+Left Insula,CBCL-depressive_prob_score,-0.30013081126669977,0.3397660233976602,12
+Left Insula,CBCL-externalizing_score,0.20495851289466363,0.5261473852614739,12
+Left Insula,CBCL-internalizing_score,-0.1725394897249797,0.5801419858014198,12
+Left Insula,CBCL-obsessive_comp_prob_score,0.042866985897240854,0.9177082291770823,12
+Left Insula,CBCL-oppo_def_prob_score,0.2447603922253478,0.44315568443155684,12
+Left Insula,CBCL-rule_break_behav_score,-0.036601318447158505,0.9109089091090891,12
+Left Insula,CBCL-sluggish_cogn_tempo_score,0.15738566932278156,0.6373362663733627,12
+Left Insula,CBCL-social_prob_score,0.5010299594453306,0.09919008099190081,12
+Left Insula,CBCL-som_comp_score,0.08946963561523759,0.7735226477352265,12
+Left Insula,CBCL-som_prob_score,-0.02911420978274312,0.9333066693330667,12
+Left Insula,CBCL-stress_prob_score,-0.00354009471579317,0.9827017298270173,12
+Left Insula,CBCL-thought_prob_score,0.5097736390742165,0.096990300969903,12
+Left Insula,CBCL-total_problems_score,0.24868689626011292,0.4313568643135686,12
+Right Thalamus,CBCL-aggr_behav_score,-0.05387950499014081,0.8731126887311269,12
+Right Thalamus,CBCL-anx_prob_score,0.11853491097830977,0.7113288671132887,12
+Right Thalamus,CBCL-anxious_score,-0.02124056829475902,0.944905509449055,12
+Right Thalamus,CBCL-attention_hyper_prob_score,0.3055452595480314,0.33336666333366666,12
+Right Thalamus,CBCL-attention_prob_score,0.25488681953710823,0.42275772422757724,12
+Right Thalamus,CBCL-conduct_prob_score,-0.42293469687544705,0.1723827617238276,12
+Right Thalamus,CBCL-depressed_score,-0.2131089052339962,0.5097490250974902,12
+Right Thalamus,CBCL-depressive_prob_score,0.36967331631630085,0.23577642235776422,12
+Right Thalamus,CBCL-externalizing_score,-0.07774288420142414,0.80991900809919,12
+Right Thalamus,CBCL-internalizing_score,-0.08803035190049985,0.7937206279372063,12
+Right Thalamus,CBCL-obsessive_comp_prob_score,0.30364115010545606,0.34856514348565143,12
+Right Thalamus,CBCL-oppo_def_prob_score,0.15343188766365087,0.632936706329367,12
+Right Thalamus,CBCL-rule_break_behav_score,-0.2964706794219839,0.35496450354964504,12
+Right Thalamus,CBCL-sluggish_cogn_tempo_score,0.20130725145937176,0.5253474652534746,12
+Right Thalamus,CBCL-social_prob_score,-0.11094234816289461,0.7341265873412659,12
+Right Thalamus,CBCL-som_comp_score,0.21114834005196073,0.5209479052094791,12
+Right Thalamus,CBCL-som_prob_score,0.462188080301047,0.1441855814418558,12
+Right Thalamus,CBCL-stress_prob_score,0.35046937686352386,0.263973602639736,12
+Right Thalamus,CBCL-thought_prob_score,0.2938278614108331,0.3605639436056394,12
+Right Thalamus,CBCL-total_problems_score,0.19264477879304523,0.5537446255374463,12
+Left Superior temporal gyrus,CBCL-aggr_behav_score,-0.05028753799079809,0.8809119088091191,12
+Left Superior temporal gyrus,CBCL-anx_prob_score,-0.08979917498356803,0.7877212278772123,12
+Left Superior temporal gyrus,CBCL-anxious_score,-0.10974293618958829,0.7403259674032596,12
+Left Superior temporal gyrus,CBCL-attention_hyper_prob_score,0.031975666696887006,0.9213078692130787,12
+Left Superior temporal gyrus,CBCL-attention_prob_score,0.01416037886317268,0.9685031496850315,12
+Left Superior temporal gyrus,CBCL-conduct_prob_score,-0.10573367421886176,0.7661233876612339,12
+Left Superior temporal gyrus,CBCL-depressed_score,-0.40815773375324693,0.20057994200579943,12
+Left Superior temporal gyrus,CBCL-depressive_prob_score,0.24522883359596195,0.43555644435556445,12
+Left Superior temporal gyrus,CBCL-externalizing_score,-0.12721562869323952,0.7017298270172982,12
+Left Superior temporal gyrus,CBCL-internalizing_score,-0.37676990613413935,0.21997800219978003,12
+Left Superior temporal gyrus,CBCL-obsessive_comp_prob_score,0.12502870886695253,0.6945305469453055,12
+Left Superior temporal gyrus,CBCL-oppo_def_prob_score,-0.007306280364935755,0.9719028097190281,12
+Left Superior temporal gyrus,CBCL-rule_break_behav_score,-0.18666672408050836,0.5723427657234277,12
+Left Superior temporal gyrus,CBCL-sluggish_cogn_tempo_score,-0.08052290058374871,0.8205179482051795,12
+Left Superior temporal gyrus,CBCL-social_prob_score,0.09662720646445659,0.7513248675132487,12
+Left Superior temporal gyrus,CBCL-som_comp_score,-0.10020599188906609,0.7449255074492551,12
+Left Superior temporal gyrus,CBCL-som_prob_score,0.2474707831533165,0.4413558644135586,12
+Left Superior temporal gyrus,CBCL-stress_prob_score,-0.00354009471579317,0.9983001699830018,12
+Left Superior temporal gyrus,CBCL-thought_prob_score,-0.08496227317903608,0.8037196280371963,12
+Left Superior temporal gyrus,CBCL-total_problems_score,0.021015794050150385,0.9443055694430557,12
+"Right Inferior frontal gyrus, triangular part",CBCL-aggr_behav_score,-0.8117845418514549,0.0025997400259974,12
+"Right Inferior frontal gyrus, triangular part",CBCL-anx_prob_score,-0.38793243592901383,0.21797820217978203,12
+"Right Inferior frontal gyrus, triangular part",CBCL-anxious_score,-0.6690779012849092,0.019598040195980403,12
+"Right Inferior frontal gyrus, triangular part",CBCL-attention_hyper_prob_score,-0.7034646673315141,0.014598540145985401,12
+"Right Inferior frontal gyrus, triangular part",CBCL-attention_prob_score,-0.5593349650953209,0.0585941405859414,12
+"Right Inferior frontal gyrus, triangular part",CBCL-conduct_prob_score,-0.7753802776049862,0.0071992800719928,12
+"Right Inferior frontal gyrus, triangular part",CBCL-depressed_score,0.14809262906091258,0.6419358064193581,12
+"Right Inferior frontal gyrus, triangular part",CBCL-depressive_prob_score,0.3550327889374375,0.256974302569743,12
+"Right Inferior frontal gyrus, triangular part",CBCL-externalizing_score,-0.8763743309978722,0.0007999200079992001,12
+"Right Inferior frontal gyrus, triangular part",CBCL-internalizing_score,-0.3063456246137395,0.33756624337566243,12
+"Right Inferior frontal gyrus, triangular part",CBCL-obsessive_comp_prob_score,-0.3858028730751677,0.204979502049795,12
+"Right Inferior frontal gyrus, triangular part",CBCL-oppo_def_prob_score,-0.6977497748513646,0.018198180181981802,12
+"Right Inferior frontal gyrus, triangular part",CBCL-rule_break_behav_score,-0.7722878192350445,0.0059994000599940004,12
+"Right Inferior frontal gyrus, triangular part",CBCL-sluggish_cogn_tempo_score,-0.4282354258317545,0.1633836616338366,12
+"Right Inferior frontal gyrus, triangular part",CBCL-social_prob_score,-0.6692328744019772,0.021397860213978603,12
+"Right Inferior frontal gyrus, triangular part",CBCL-som_comp_score,-0.10736356273828511,0.7397260273972602,12
+"Right Inferior frontal gyrus, triangular part",CBCL-som_prob_score,-0.1856030873649874,0.5501449855014499,12
+"Right Inferior frontal gyrus, triangular part",CBCL-stress_prob_score,-0.5628750598111141,0.060193980601939805,12
+"Right Inferior frontal gyrus, triangular part",CBCL-thought_prob_score,-0.477912786632078,0.10898910108989102,12
+"Right Inferior frontal gyrus, triangular part",CBCL-total_problems_score,-0.704029100680038,0.0117988201179882,12
+Right Insula,CBCL-aggr_behav_score,0.14367867997370884,0.6425357464253575,12
+Right Insula,CBCL-anx_prob_score,-0.07902327398553985,0.8185181481851814,12
+Right Insula,CBCL-anxious_score,0.05664151545269072,0.8391160883911609,12
+Right Insula,CBCL-attention_hyper_prob_score,0.3588380373761764,0.25317468253174685,12
+Right Insula,CBCL-attention_prob_score,0.27966748254766044,0.3681631836816318,12
+Right Insula,CBCL-conduct_prob_score,-0.17622279036476962,0.6001399860013998,12
+Right Insula,CBCL-depressed_score,0.37564959566670514,0.23097690230976903,12
+Right Insula,CBCL-depressive_prob_score,0.13542487825448649,0.6601339866013398,12
+Right Insula,CBCL-externalizing_score,0.045938977028114274,0.8771122887711229,12
+Right Insula,CBCL-internalizing_score,0.31338805276577947,0.3217678232176782,12
+Right Insula,CBCL-obsessive_comp_prob_score,0.03572248824770072,0.9073092690730927,12
+Right Insula,CBCL-oppo_def_prob_score,0.28494493423249445,0.3631636836316368,12
+Right Insula,CBCL-rule_break_behav_score,-0.18666672408050836,0.5795420457954205,12
+Right Insula,CBCL-sluggish_cogn_tempo_score,0.2598693609748254,0.40035996400359963,12
+Right Insula,CBCL-social_prob_score,-0.010736356273828511,0.9843015698430156,12
+Right Insula,CBCL-som_comp_score,0.45808453435001645,0.128987101289871,12
+Right Insula,CBCL-som_prob_score,0.2620278880446881,0.40315968403159685,12
+Right Insula,CBCL-stress_prob_score,0.17700473578965853,0.5893410658934106,12
+Right Insula,CBCL-thought_prob_score,0.5380943968005618,0.07779222077792221,12
+Right Insula,CBCL-total_problems_score,0.33625270480240615,0.2883711628837116,12
+Left Precuneus,CBCL-aggr_behav_score,-0.11135097697962434,0.7367263273672633,12
+Left Precuneus,CBCL-anx_prob_score,-0.35201276593558667,0.260973902609739,12
+Left Precuneus,CBCL-anxious_score,-0.06726179960007023,0.8325167483251675,12
+Left Precuneus,CBCL-attention_hyper_prob_score,0.09592700009066102,0.7671232876712328,12
+Left Precuneus,CBCL-attention_prob_score,0.20532549351600388,0.5305469453054694,12
+Left Precuneus,CBCL-conduct_prob_score,-0.29370465060794937,0.35136486351364865,12
+Left Precuneus,CBCL-depressed_score,0.1517046444038617,0.6407359264073592,12
+Left Precuneus,CBCL-depressive_prob_score,-0.029281054757726806,0.9275072492750724,12
+Left Precuneus,CBCL-externalizing_score,-0.22969488514057135,0.46795320467953205,12
+Left Precuneus,CBCL-internalizing_score,0.02112728445611996,0.9485051494850515,12
+Left Precuneus,CBCL-obsessive_comp_prob_score,0.24291292008436485,0.44755524447555245,12
+Left Precuneus,CBCL-oppo_def_prob_score,-0.10594106529156844,0.7499250074992501,12
+Left Precuneus,CBCL-rule_break_behav_score,-0.2854902838878363,0.35736426357364265,12
+Left Precuneus,CBCL-sluggish_cogn_tempo_score,0.3440523934032899,0.2705729427057294,12
+Left Precuneus,CBCL-social_prob_score,-0.10736356273828511,0.7273272672732727,12
+Left Precuneus,CBCL-som_comp_score,0.19325441292891318,0.5455454454554545,12
+Left Precuneus,CBCL-som_prob_score,0.02911420978274312,0.9337066293370663,12
+Left Precuneus,CBCL-stress_prob_score,-0.17346464107386536,0.581941805819418,12
+Left Precuneus,CBCL-thought_prob_score,0.5593349650953209,0.0603939606039396,12
+Left Precuneus,CBCL-total_problems_score,0.09106844088398502,0.777922207779222,12
+Right Superior temporal gyrus,CBCL-aggr_behav_score,-0.14727064697305156,0.642935706429357,12
+Right Superior temporal gyrus,CBCL-anx_prob_score,-0.7722729048586849,0.004999500049995001,12
+Right Superior temporal gyrus,CBCL-anxious_score,-0.4283514606109736,0.1715828417158284,12
+Right Superior temporal gyrus,CBCL-attention_hyper_prob_score,0.15987833348443503,0.6117388261173883,12
+Right Superior temporal gyrus,CBCL-attention_prob_score,0.10974293618958829,0.7361263873612639,12
+Right Superior temporal gyrus,CBCL-conduct_prob_score,-0.2819564645836314,0.38016198380161986,12
+Right Superior temporal gyrus,CBCL-depressed_score,-0.33230541155131604,0.2947705229477052,12
+Right Superior temporal gyrus,CBCL-depressive_prob_score,-0.2745098883536888,0.38936106389361064,12
+Right Superior temporal gyrus,CBCL-externalizing_score,-0.27210009470498453,0.3855614438556144,12
+Right Superior temporal gyrus,CBCL-internalizing_score,-0.37324869205811934,0.24077592240775922,12
+Right Superior temporal gyrus,CBCL-obsessive_comp_prob_score,0.2536296665586751,0.43555644435556445,12
+Right Superior temporal gyrus,CBCL-oppo_def_prob_score,-0.10228792510910056,0.7521247875212479,12
+Right Superior temporal gyrus,CBCL-rule_break_behav_score,-0.5087583264155032,0.0933906609339066,12
+Right Superior temporal gyrus,CBCL-sluggish_cogn_tempo_score,0.14274514194391816,0.6673332666733327,12
+Right Superior temporal gyrus,CBCL-social_prob_score,0.04652421051992355,0.8883111688831117,12
+Right Superior temporal gyrus,CBCL-som_comp_score,-0.23977862344883671,0.45935406459354067,12
+Right Superior temporal gyrus,CBCL-som_prob_score,-0.3275348600558601,0.30256974302569745,12
+Right Superior temporal gyrus,CBCL-stress_prob_score,-0.3256887138529716,0.3023697630236976,12
+Right Superior temporal gyrus,CBCL-thought_prob_score,0.2513467248213151,0.4413558644135586,12
+Right Superior temporal gyrus,CBCL-total_problems_score,-0.17162898474289487,0.5995400459954005,12
+Left Posterior cingulate gyrus,CBCL-aggr_behav_score,0.1867822839658215,0.547945205479452,12
+Left Posterior cingulate gyrus,CBCL-anx_prob_score,0.11494294397896705,0.7229277072292771,12
+Left Posterior cingulate gyrus,CBCL-anxious_score,0.2938278614108331,0.34736526347365265,12
+Left Posterior cingulate gyrus,CBCL-attention_hyper_prob_score,0.31975666696887006,0.3067693230676932,12
+Left Posterior cingulate gyrus,CBCL-attention_prob_score,0.5841156281058731,0.0527947205279472,12
+Left Posterior cingulate gyrus,CBCL-conduct_prob_score,0.15272641831613365,0.6315368463153684,12
+Left Posterior cingulate gyrus,CBCL-depressed_score,-0.25645308934938527,0.41315868413158685,12
+Left Posterior cingulate gyrus,CBCL-depressive_prob_score,0.08784316427318041,0.8025197480251974,12
+Left Posterior cingulate gyrus,CBCL-externalizing_score,0.13781693108434281,0.6637336266373363,12
+Left Posterior cingulate gyrus,CBCL-internalizing_score,0.007042428152039987,0.9821017898210179,12
+Left Posterior cingulate gyrus,CBCL-obsessive_comp_prob_score,0.6394325396338428,0.030796920307969204,12
+Left Posterior cingulate gyrus,CBCL-oppo_def_prob_score,0.09498164474416483,0.7507249275072493,12
+Left Posterior cingulate gyrus,CBCL-rule_break_behav_score,0.27084975650897297,0.38096190380961903,12
+Left Posterior cingulate gyrus,CBCL-sluggish_cogn_tempo_score,0.3843138436951643,0.21237876212378762,12
+Left Posterior cingulate gyrus,CBCL-social_prob_score,0.1860968420796942,0.5621437856214379,12
+Left Posterior cingulate gyrus,CBCL-som_comp_score,0.2039907692027417,0.5041495850414959,12
+Left Posterior cingulate gyrus,CBCL-som_prob_score,0.4330738705183039,0.1533846615338466,12
+Left Posterior cingulate gyrus,CBCL-stress_prob_score,0.2124056829475902,0.5141485851414859,12
+Left Posterior cingulate gyrus,CBCL-thought_prob_score,0.5841156281058731,0.04559544045595441,12
+Left Posterior cingulate gyrus,CBCL-total_problems_score,0.39579745461116567,0.20057994200579943,12
+Right Precentral gyrus,CBCL-aggr_behav_score,-0.2981332609454458,0.34296570342965704,12
+Right Precentral gyrus,CBCL-anx_prob_score,-0.47054767691389643,0.12918708129187081,12
+Right Precentral gyrus,CBCL-anxious_score,-0.2513467248213151,0.42695730426957307,12
+Right Precentral gyrus,CBCL-attention_hyper_prob_score,0.05329277782814502,0.8629137086291371,12
+Right Precentral gyrus,CBCL-attention_prob_score,0.1805448305054517,0.5755424457554245,12
+Right Precentral gyrus,CBCL-conduct_prob_score,-0.011748186024317972,0.9801019898010199,12
+Right Precentral gyrus,CBCL-depressed_score,-0.13003255234616717,0.6883311668833116,12
+Right Precentral gyrus,CBCL-depressive_prob_score,-0.17568632854636082,0.5837416258374163,12
+Right Precentral gyrus,CBCL-externalizing_score,-0.32510660666050095,0.30196980301969806,12
+Right Precentral gyrus,CBCL-internalizing_score,-0.2183152727132396,0.49635036496350365,12
+Right Precentral gyrus,CBCL-obsessive_comp_prob_score,0.3357913895283867,0.2725727427257274,12
+Right Precentral gyrus,CBCL-oppo_def_prob_score,-0.3726202986117235,0.23117688231176883,12
+Right Precentral gyrus,CBCL-rule_break_behav_score,-0.16104580116749742,0.6245375462453755,12
+Right Precentral gyrus,CBCL-sluggish_cogn_tempo_score,-0.06222224136016945,0.8547145285471452,12
+Right Precentral gyrus,CBCL-social_prob_score,-0.10736356273828511,0.7361263873612639,12
+Right Precentral gyrus,CBCL-som_comp_score,-0.37577246958399785,0.22997700229977003,12
+Right Precentral gyrus,CBCL-som_prob_score,-0.4330738705183039,0.16178382161783822,12
+Right Precentral gyrus,CBCL-stress_prob_score,-0.27966748254766044,0.37136286371362864,12
+Right Precentral gyrus,CBCL-thought_prob_score,-0.09204246261062243,0.7771222877712228,12
+Right Precentral gyrus,CBCL-total_problems_score,-0.3117342784105641,0.3251674832516748,12
+Left Precentral gyrus,CBCL-aggr_behav_score,0.08979917498356803,0.7861213878612139,12
+Left Precentral gyrus,CBCL-anx_prob_score,-0.05387950499014081,0.8773122687731227,12
+Left Precentral gyrus,CBCL-anxious_score,0.06726179960007023,0.8343165683431657,12
+Left Precentral gyrus,CBCL-attention_hyper_prob_score,0.3659437410865957,0.24577542245775422,12
+Left Precentral gyrus,CBCL-attention_prob_score,0.2124056829475902,0.5125487451254874,12
+Left Precentral gyrus,CBCL-conduct_prob_score,0.36419376675385723,0.2511748825117488,12
+Left Precentral gyrus,CBCL-depressed_score,-0.29618525812182517,0.3521647835216478,12
+Left Precentral gyrus,CBCL-depressive_prob_score,-0.3147713386455631,0.31916808319168083,12
+Left Precentral gyrus,CBCL-externalizing_score,0.06714158181032086,0.8321167883211679,12
+Left Precentral gyrus,CBCL-internalizing_score,-0.14084856304079973,0.6695330466953304,12
+Left Precentral gyrus,CBCL-obsessive_comp_prob_score,0.23219617361005462,0.4727527247275273,12
+Left Precentral gyrus,CBCL-oppo_def_prob_score,-0.010959420547403632,0.9791020897910209,12
+Left Precentral gyrus,CBCL-rule_break_behav_score,0.20496738330408762,0.5211478852114788,12
+Left Precentral gyrus,CBCL-sluggish_cogn_tempo_score,-0.04758171398130606,0.8941105889411058,12
+Left Precentral gyrus,CBCL-social_prob_score,0.22904226717500822,0.47795220477952205,12
+Left Precentral gyrus,CBCL-som_comp_score,0.025051497972266523,0.9393060693930607,12
+Left Precentral gyrus,CBCL-som_prob_score,0.09098190557107225,0.7781221877812219,12
+Left Precentral gyrus,CBCL-stress_prob_score,-0.017700473578965852,0.9603039696030397,12
+Left Precentral gyrus,CBCL-thought_prob_score,0.2725872931160741,0.3735626437356264,12
+Left Precentral gyrus,CBCL-total_problems_score,0.10507897025075195,0.7441255874412559,12
+Left Anterior cingulate and paracingulate gyri,CBCL-aggr_behav_score,0.13290277897568067,0.6741325867413258,12
+Left Anterior cingulate and paracingulate gyri,CBCL-anx_prob_score,-0.18319031696647875,0.5725427457254274,12
+Left Anterior cingulate and paracingulate gyri,CBCL-anxious_score,0.05664151545269072,0.8623137686231377,12
+Left Anterior cingulate and paracingulate gyri,CBCL-attention_hyper_prob_score,0.30909811140324106,0.32556744325567444,12
+Left Anterior cingulate and paracingulate gyri,CBCL-attention_prob_score,0.19470520936862434,0.5417458254174583,12
+Left Anterior cingulate and paracingulate gyri,CBCL-conduct_prob_score,0.0,1.0,12
+Left Anterior cingulate and paracingulate gyri,CBCL-depressed_score,-0.032508138086541793,0.9373062693730627,12
+Left Anterior cingulate and paracingulate gyri,CBCL-depressive_prob_score,-0.08418303242846455,0.8007199280071993,12
+Left Anterior cingulate and paracingulate gyri,CBCL-externalizing_score,0.03180390717330988,0.9239076092390761,12
+Left Anterior cingulate and paracingulate gyri,CBCL-internalizing_score,0.04929699706427991,0.8623137686231377,12
+Left Anterior cingulate and paracingulate gyri,CBCL-obsessive_comp_prob_score,0.200045934187124,0.5231476852314768,12
+Left Anterior cingulate and paracingulate gyri,CBCL-oppo_def_prob_score,0.09498164474416483,0.7629237076292371,12
+Left Anterior cingulate and paracingulate gyri,CBCL-rule_break_behav_score,-0.11346408718619136,0.7263273672632736,12
+Left Anterior cingulate and paracingulate gyri,CBCL-sluggish_cogn_tempo_score,0.39529423922931184,0.19978002199780023,12
+Left Anterior cingulate and paracingulate gyri,CBCL-social_prob_score,0.18967562750430367,0.5671432856714329,12
+Left Anterior cingulate and paracingulate gyri,CBCL-som_comp_score,0.3399846153379028,0.272972702729727,12
+Left Anterior cingulate and paracingulate gyri,CBCL-som_prob_score,0.2547493355990023,0.41115888411158885,12
+Left Anterior cingulate and paracingulate gyri,CBCL-stress_prob_score,0.08850236789482926,0.7809219078092191,12
+Left Anterior cingulate and paracingulate gyri,CBCL-thought_prob_score,0.5451745862321482,0.0653934606539346,12
+Left Anterior cingulate and paracingulate gyri,CBCL-total_problems_score,0.22767110220996253,0.46855314468553144,12
+Left Thalamus,CBCL-aggr_behav_score,-0.09698310898225346,0.7545245475452454,12
+Left Thalamus,CBCL-anx_prob_score,0.2083340859618778,0.5197480251974802,12
+Left Thalamus,CBCL-anxious_score,-0.049561326021104385,0.8975102489751025,12
+Left Thalamus,CBCL-attention_hyper_prob_score,0.039081370407306346,0.9169083091690831,12
+Left Thalamus,CBCL-attention_prob_score,0.09912265204220877,0.7501249875012499,12
+Left Thalamus,CBCL-conduct_prob_score,-0.39943832482681113,0.19138086191380863,12
+Left Thalamus,CBCL-depressed_score,-0.27812518140707976,0.38076192380761925,12
+Left Thalamus,CBCL-depressive_prob_score,0.3989543710740277,0.19158084191580843,12
+Left Thalamus,CBCL-externalizing_score,-0.10601302391103293,0.7347265273472653,12
+Left Thalamus,CBCL-internalizing_score,-0.15493341934487972,0.6347365263473652,12
+Left Thalamus,CBCL-obsessive_comp_prob_score,0.19290143653758385,0.5397460253974603,12
+Left Thalamus,CBCL-oppo_def_prob_score,0.09132850456169694,0.7793220677932207,12
+Left Thalamus,CBCL-rule_break_behav_score,-0.22326804252766688,0.4677532246775322,12
+Left Thalamus,CBCL-sluggish_cogn_tempo_score,0.010980395534147551,0.9707029297070293,12
+Left Thalamus,CBCL-social_prob_score,-0.16820291495664666,0.5883411658834117,12
+Left Thalamus,CBCL-som_comp_score,0.12883627528594213,0.6955304469553044,12
+Left Thalamus,CBCL-som_prob_score,0.462188080301047,0.13358664133586642,12
+Left Thalamus,CBCL-stress_prob_score,0.23010615652655605,0.46615338466153383,12
+Left Thalamus,CBCL-thought_prob_score,0.07788208374744975,0.801919808019198,12
+Left Thalamus,CBCL-total_problems_score,0.09106844088398502,0.7645235476452354,12
+Right Precuneus,CBCL-aggr_behav_score,-0.017959834996713605,0.9639036096390361,12
+Right Precuneus,CBCL-anx_prob_score,0.07902327398553985,0.8031196880311969,12
+Right Precuneus,CBCL-anxious_score,0.14160378863172682,0.6559344065593441,12
+Right Precuneus,CBCL-attention_hyper_prob_score,0.10303270380108036,0.7615238476152385,12
+Right Precuneus,CBCL-attention_prob_score,0.17346464107386536,0.6101389861013898,12
+Right Precuneus,CBCL-conduct_prob_score,-0.11748186024317973,0.7335266473352665,12
+Right Precuneus,CBCL-depressed_score,0.010836046028847263,0.9835016498350165,12
+Right Precuneus,CBCL-depressive_prob_score,-0.1390850100992023,0.6705329467053295,12
+Right Precuneus,CBCL-externalizing_score,-0.12721562869323952,0.7037296270372962,12
+Right Precuneus,CBCL-internalizing_score,0.09507278005253983,0.7693230676932307,12
+Right Precuneus,CBCL-obsessive_comp_prob_score,0.3572248824770071,0.25817418258174185,12
+Right Precuneus,CBCL-oppo_def_prob_score,0.047490822372082415,0.8869113088691131,12
+Right Precuneus,CBCL-rule_break_behav_score,-0.05856210951545361,0.8655134486551345,12
+Right Precuneus,CBCL-sluggish_cogn_tempo_score,0.11346408718619136,0.7277272272772722,12
+Right Precuneus,CBCL-social_prob_score,-0.20041198377813219,0.5345465453454654,12
+Right Precuneus,CBCL-som_comp_score,0.3936663967070454,0.2091790820917908,12
+Right Precuneus,CBCL-som_prob_score,0.42943459429546105,0.1715828417158284,12
+Right Precuneus,CBCL-stress_prob_score,-0.07080189431586341,0.8163183681631837,12
+Right Precuneus,CBCL-thought_prob_score,0.5770354386742867,0.05599440055994401,12
+Right Precuneus,CBCL-total_problems_score,0.16812635240120308,0.5995400459954005,12
+Right Anterior cingulate and paracingulate gyri,CBCL-aggr_behav_score,-0.2478457229546477,0.43055694430556946,12
+Right Anterior cingulate and paracingulate gyri,CBCL-anx_prob_score,-0.20115015196319236,0.5263473652634737,12
+Right Anterior cingulate and paracingulate gyri,CBCL-anxious_score,-0.11328303090538144,0.7085291470852915,12
+Right Anterior cingulate and paracingulate gyri,CBCL-attention_hyper_prob_score,-0.21317111131258007,0.5063493650634937,12
+Right Anterior cingulate and paracingulate gyri,CBCL-attention_prob_score,-0.06726179960007023,0.8385161483851615,12
+Right Anterior cingulate and paracingulate gyri,CBCL-conduct_prob_score,-0.2702082785593134,0.3905609439056094,12
+Right Anterior cingulate and paracingulate gyri,CBCL-depressed_score,-0.10474844494552353,0.7515248475152485,12
+Right Anterior cingulate and paracingulate gyri,CBCL-depressive_prob_score,0.05856210951545361,0.8657134286571343,12
+Right Anterior cingulate and paracingulate gyri,CBCL-externalizing_score,-0.2827013970960878,0.36396360363963604,12
+Right Anterior cingulate and paracingulate gyri,CBCL-internalizing_score,-0.07394549559641986,0.8251174882511749,12
+Right Anterior cingulate and paracingulate gyri,CBCL-obsessive_comp_prob_score,0.300068901280686,0.33796620337966204,12
+Right Anterior cingulate and paracingulate gyri,CBCL-oppo_def_prob_score,-0.3105169155097696,0.3311668833116688,12
+Right Anterior cingulate and paracingulate gyri,CBCL-rule_break_behav_score,-0.29281054757726804,0.33936606339366066,12
+Right Anterior cingulate and paracingulate gyri,CBCL-sluggish_cogn_tempo_score,0.3147713386455631,0.3217678232176782,12
+Right Anterior cingulate and paracingulate gyri,CBCL-social_prob_score,-0.16462412953203714,0.6033396660333966,12
+Right Anterior cingulate and paracingulate gyri,CBCL-som_comp_score,-0.021472712547657022,0.9611038896110389,12
+Right Anterior cingulate and paracingulate gyri,CBCL-som_prob_score,-0.01819638111421445,0.9655034496550345,12
+Right Anterior cingulate and paracingulate gyri,CBCL-stress_prob_score,-0.04248113658951804,0.9051094890510949,12
+Right Anterior cingulate and paracingulate gyri,CBCL-thought_prob_score,-0.049561326021104385,0.8873112688731127,12
+Right Anterior cingulate and paracingulate gyri,CBCL-total_problems_score,-0.273205322651955,0.38816118388161186,12
+Left Lobule VI of cerebellar hemisphere,CBCL-aggr_behav_score,0.06106343898882625,0.8617138286171383,12
+Left Lobule VI of cerebellar hemisphere,CBCL-anx_prob_score,-0.4310360399211265,0.15778422157784222,12
+Left Lobule VI of cerebellar hemisphere,CBCL-anxious_score,-0.36816985044248973,0.23397660233976603,12
+Left Lobule VI of cerebellar hemisphere,CBCL-attention_hyper_prob_score,0.19540685203653171,0.5421457854214579,12
+Left Lobule VI of cerebellar hemisphere,CBCL-attention_prob_score,0.02124056829475902,0.9465053494650535,12
+Left Lobule VI of cerebellar hemisphere,CBCL-conduct_prob_score,0.011748186024317972,0.9957004299570043,12
+Left Lobule VI of cerebellar hemisphere,CBCL-depressed_score,-0.35036548826606156,0.2505749425057494,12
+Left Lobule VI of cerebellar hemisphere,CBCL-depressive_prob_score,-0.24156870175124612,0.44215578442155784,12
+Left Lobule VI of cerebellar hemisphere,CBCL-externalizing_score,-0.03180390717330988,0.9219078092190781,12
+Left Lobule VI of cerebellar hemisphere,CBCL-internalizing_score,-0.3521214076019994,0.254974502549745,12
+Left Lobule VI of cerebellar hemisphere,CBCL-obsessive_comp_prob_score,-0.28220765715683566,0.38816118388161186,12
+Left Lobule VI of cerebellar hemisphere,CBCL-oppo_def_prob_score,0.0657565232844218,0.8253174682531746,12
+Left Lobule VI of cerebellar hemisphere,CBCL-rule_break_behav_score,-0.13176474640977062,0.6755324467553244,12
+Left Lobule VI of cerebellar hemisphere,CBCL-sluggish_cogn_tempo_score,-0.19764711961465592,0.5349465053494651,12
+Left Lobule VI of cerebellar hemisphere,CBCL-social_prob_score,0.28630283396876033,0.3721627837216278,12
+Left Lobule VI of cerebellar hemisphere,CBCL-som_comp_score,0.12525748986133264,0.6955304469553044,12
+Left Lobule VI of cerebellar hemisphere,CBCL-som_prob_score,0.05458914334264336,0.8705129487051295,12
+Left Lobule VI of cerebellar hemisphere,CBCL-stress_prob_score,-0.332768903284558,0.28477152284771523,12
+Left Lobule VI of cerebellar hemisphere,CBCL-thought_prob_score,0.4672925024846985,0.12958704129587043,12
+Left Lobule VI of cerebellar hemisphere,CBCL-total_problems_score,0.12959739664259406,0.6903309669033096,12
+Right Lobule VI of cerebellar hemisphere,CBCL-aggr_behav_score,-0.24066178895596227,0.4517548245175482,12
+Right Lobule VI of cerebellar hemisphere,CBCL-anx_prob_score,-0.37715653493098567,0.2273772622737726,12
+Right Lobule VI of cerebellar hemisphere,CBCL-anxious_score,-0.44251183947414624,0.14958504149585042,12
+Right Lobule VI of cerebellar hemisphere,CBCL-attention_hyper_prob_score,0.1314555186427577,0.6875312468753124,12
+Right Lobule VI of cerebellar hemisphere,CBCL-attention_prob_score,-0.10266274675800194,0.7489251074892511,12
+Right Lobule VI of cerebellar hemisphere,CBCL-conduct_prob_score,-0.11748186024317973,0.7203279672032796,12
+Right Lobule VI of cerebellar hemisphere,CBCL-depressed_score,-0.22394495126284347,0.47115288471152883,12
+Right Lobule VI of cerebellar hemisphere,CBCL-depressive_prob_score,-0.5636603040862409,0.05299470052994701,12
+Right Lobule VI of cerebellar hemisphere,CBCL-externalizing_score,-0.26149879231388123,0.41775822417758224,12
+Right Lobule VI of cerebellar hemisphere,CBCL-internalizing_score,-0.2711334838535395,0.38736126387361264,12
+Right Lobule VI of cerebellar hemisphere,CBCL-obsessive_comp_prob_score,-0.12860095769172258,0.6967303269673033,12
+Right Lobule VI of cerebellar hemisphere,CBCL-oppo_def_prob_score,-0.10594106529156844,0.7473252674732527,12
+Right Lobule VI of cerebellar hemisphere,CBCL-rule_break_behav_score,-0.2488889654406778,0.42215778422157785,12
+Right Lobule VI of cerebellar hemisphere,CBCL-sluggish_cogn_tempo_score,-0.5014380627260715,0.0837916208379162,12
+Right Lobule VI of cerebellar hemisphere,CBCL-social_prob_score,-0.20041198377813219,0.5187481251874813,12
+Right Lobule VI of cerebellar hemisphere,CBCL-som_comp_score,-0.11809991901211361,0.7079292070792921,12
+Right Lobule VI of cerebellar hemisphere,CBCL-som_prob_score,-0.2875028216045883,0.36536346365363465,12
+Right Lobule VI of cerebellar hemisphere,CBCL-stress_prob_score,-0.456672218337319,0.1287871212878712,12
+Right Lobule VI of cerebellar hemisphere,CBCL-thought_prob_score,0.18762501993703803,0.5711428857114289,12
+Right Lobule VI of cerebellar hemisphere,CBCL-total_problems_score,-0.25919479328518813,0.39476052394760525,12
