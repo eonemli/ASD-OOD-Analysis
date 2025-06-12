@@ -1,6 +1,10 @@
 # SADE
 **S**core-based **A**nomaly **DE**tection (sah-day)
 
+New configs were added to the original code for ABCD ASD Analysis.
+See the additional config files ending with _abcd_asd.py
+The rest contains the original sade files.
+
 ## Introduction
 
 SADE is a research project aimed at exploring and experimenting with denoising score matching for the purposes of anomaly detection in 3D brain MRIs.

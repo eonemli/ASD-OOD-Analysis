@@ -406,7 +406,7 @@ if __name__ == "__main__":
         R = re.compile(r"Data_abcd_asd_scr_pos_gz\/sub-(.*)\/ses-")
         clean = lambda x: x.strip().replace("_", "")
 
-        with open("abcd_qc_passing_keys_161.txt", "r") as f:
+        with open("abcd_qc_passing_keys_160.txt", "r") as f:
             abcd_qc_keys = set([clean(x) for x in f.readlines()])
 
         file_paths = []
