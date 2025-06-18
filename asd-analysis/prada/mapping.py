@@ -97,7 +97,7 @@ def map_test_data_to_neurons(test_data, test_labels, test_identifiers, zero_unit
 
 
 
-def load_and_map_zero_units(zu_dir ,file_name, log_scale_t1, log_scale_t2, inlier_data, train_labels, inlier_identifiers, test_data, test_labels, test_identifiers):
+def load_and_map_zero_units(zu_dir ,file_name, log_scale_t1, log_scale_t2, inlier_data, train_labels, inlier_identifiers, test_data, test_labels, test_identifiers, floats=3):
     """
     Load trained zero unit maps, map training and test data, and store the results for each t1 and t2 combination.
     
@@ -113,8 +113,8 @@ def load_and_map_zero_units(zu_dir ,file_name, log_scale_t1, log_scale_t2, inlie
     # Iterate over t1 and t2 values
     for i, t1 in enumerate(log_scale_t1):
         for j, t2 in enumerate(log_scale_t2):
-            t1_r = round(t1, 3)
-            t2_r = round(t2, 3)
+            t1_r = round(t1, floats)
+            t2_r = round(t2, floats)
 
             zero_unit_path = f'{zu_dir}/{t1_r}_{t2_r}_{file_name}'
             

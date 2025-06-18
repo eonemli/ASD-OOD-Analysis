@@ -7,7 +7,7 @@ from sklearn.decomposition import PCA
 
 scale = lambda x,a,b: (b-a)*(x-min(x))/(max(x)-min(x)) + a
 
-with open('data_scorenorm/combined_data_score_norms_v2.pkl', 'rb') as file:
+with open('data_scorenorm/combined_data_score_norms_v3_cont_asd.pkl', 'rb') as file:
     combined_data = pickle.load(file)
 
 score_norms_abcd_val = combined_data['score_norms']['abcd-val']

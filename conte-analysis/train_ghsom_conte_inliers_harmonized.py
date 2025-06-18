@@ -1,13 +1,24 @@
 import numpy as np
 import pickle
 from collections import OrderedDict
+import os
+import sys
+
+# Add ../asd-analysis to sys.path
+module_path = os.path.abspath(os.path.join('..', 'asd-analysis'))
+if module_path not in sys.path:
+    sys.path.insert(0, module_path)
+
 from prada.ghsom_model.GHSOM import GHSOM
 from prada.ghsom_model.GSOM import GSOM
+
 from sklearn.decomposition import PCA
+import json
+
 
 scale = lambda x,a,b: (b-a)*(x-min(x))/(max(x)-min(x)) + a
 
-with open('data_scorenorm/combined_data_score_norms_v2.pkl', 'rb') as file:
+with open('../asd-analysis/data_scorenorm/combined_data_score_norms_v3_cont_asd.pkl', 'rb') as file:
     combined_data = pickle.load(file)
 
 score_norms_abcd_val = combined_data['score_norms']['abcd-val']
@@ -40,33 +51,54 @@ score_norms_ibis_atypical = np.squeeze(score_norms_ibis_atypical)
 score_norms_ibis_asd = np.squeeze(score_norms_ibis_asd)
 score_norms_ibis_ds = np.squeeze(score_norms_ibis_ds)
 
-score_norms_abcd = np.load('data_scorenorm/harmonized_abcd.npy') # LOAD THE HARMONIZED DATA
-# train only using ABCD Inlier data
-dataset_id_to_name = {-1: "ABCD", 1:"HR-Typical", 2:"Atypical", 3:"Down Syndrome", 4:"ASD"}
+# LOAD THE HARMONIZED DATA
+# Set the directory
+data_dir = 'conte_data_scorenorm'
+
+# Load harmonized score norms
+harmonized_score_norms_conte_inlier = np.load(os.path.join(data_dir, 'harmonized_score_norms_conte_inlier.npy'))
+harmonized_score_norms_conte_outlier = np.load(os.path.join(data_dir, 'harmonized_score_norms_conte_outlier.npy'))
+
+# Load identifiers and use updated names
+with open(os.path.join(data_dir, 'identifiers_inlier.json'), 'r') as f:
+    identifiers_conte_inlier = json.load(f)
+
+with open(os.path.join(data_dir, 'identifiers_outlier.json'), 'r') as f:
+    identifiers_conte_outlier = json.load(f)
+
+print("Inlier shape:", harmonized_score_norms_conte_inlier.shape)
+print("Outlier shape:", harmonized_score_norms_conte_outlier.shape)
+print("Num inlier IDs:", len(identifiers_conte_inlier))
+print("Num outlier IDs:", len(identifiers_conte_outlier))
+
+
+# NOTE: train_ghsom_conte_inliers_harmonized.py only uses CONTE inliers.
+dataset_id_to_name = {-1: "CONTE-Inlier", 0:"CONTE-Outlier"}
 dataset_name_to_id = {v:k for k,v in dataset_id_to_name.items()}
-dataset_list = [score_norms_abcd, score_norms_ibis_hr_typical, score_norms_ibis_atypical, score_norms_ibis_ds, score_norms_ibis_asd]
+dataset_list = [harmonized_score_norms_conte_inlier, harmonized_score_norms_conte_outlier]
 
 X_data = np.concatenate(dataset_list, axis=0)
 y_labels = np.concatenate([[i-1]*len(d) for i,d in enumerate(dataset_list)])
 
 assert len(y_labels)==len(X_data)
+
 inlier_data = X_data[y_labels < 0]
-test_data = X_data[y_labels > 0]
-test_labels = y_labels[y_labels > 0]
 train_labels = y_labels[y_labels < 0]
+test_data = X_data[y_labels >= 0]
+test_labels = y_labels[y_labels >= 0]
 
 
 mu, std = np.mean(inlier_data, axis=0), np.std(inlier_data, axis=0)
 inlier_data = (inlier_data - mu) / std
 test_data = (test_data  - mu) / std
 
-dssamples = test_data[test_labels == dataset_name_to_id["ASD"]]
-X_data.shape, inlier_data.shape, len(dssamples), test_data.shape
-# This it for stacking identifiers. When you have all the identifiers, you can combine this with the previous code.
-identifiers_list = [identifiers_abcd, identifiers_ibis_hr_typical, identifiers_ibis_atypical, identifiers_ibis_ds, identifiers_ibis_asd]
+outlier_samples = test_data[test_labels == dataset_name_to_id["CONTE-Outlier"]]
+X_data.shape, inlier_data.shape, len(outlier_samples), test_data.shape
+# This is for stacking identifiers to be mapped to the trained GHSOM.
+identifiers_list = [identifiers_conte_inlier, identifiers_conte_outlier]
 indentifiers_data = np.concatenate(identifiers_list, axis=0)
 inlier_identifiers = indentifiers_data[y_labels < 0] 
-test_identifiers = indentifiers_data[y_labels > 0]
+test_identifiers = indentifiers_data[y_labels >= 0]
 # Some people suggest to keep the ratio of the height and width
 # to be the ratio of the first two principal components
 
@@ -100,14 +132,14 @@ import pickle
 def train_ghsom(t1, t2, inlier_data, counter, counters):
     # Check if t1 and t2 are arrays or scalars
     if isinstance(t1, np.ndarray):
-        t1_r = np.round(t1, 3)
+        t1_r = np.round(t1, 4)
     else:
-        t1_r = round(t1, 3)
+        t1_r = round(t1, 4)
 
     if isinstance(t2, np.ndarray):
-        t2_r = np.round(t2, 3)
+        t2_r = np.round(t2, 4)
     else:
-        t2_r = round(t2, 3)
+        t2_r = round(t2, 4)
 
     ghsom = GHSOM(input_dataset=inlier_data, t1=t1, t2=t2, learning_rate=0.15, decay=0.95, gaussian_sigma=1.5)
 
@@ -115,17 +147,20 @@ def train_ghsom(t1, t2, inlier_data, counter, counters):
     print(f"{counter}/{counters}.............................")
     print(f"Training... \t t1={t1_r} \t t2={t2_r},")
 
-    zero_unit = ghsom.train(epochs_number=1000, dataset_percentage=1.0, min_dataset_size=30, seed=0, grow_maxiter=10)
+    zero_unit = ghsom.train(epochs_number=2000, dataset_percentage=1.0, min_dataset_size=30, seed=0, grow_maxiter=10)
 
     end_time = time.time()
     print(f"Execution time: {(end_time - start_time)}")
     print(f"Execution time: {formatted_time(end_time - start_time)}")
 
     # Save the trained model
-    zero_unit_path = f'ghsom_outputs/trained_maps/trained_z_unit_grid_v10/{t1_r}_{t2_r}_ep-2000_mx-it-10_v2_zu.pkl'
+    zero_unit_path = f'ghsom_outputs/trained_maps/trained_z_unit_grid_v11/{t1_r}_{t2_r}_ep-2000_mx-it-11_v3_zu.pkl'
     with open(zero_unit_path, 'wb') as f:
         pickle.dump(zero_unit, f)
     print("zero_unit object saved!")
+    if zero_unit is None:
+        print("====> ZERO UNIT IS NONE!")
+
 # Create a logarithmic scale between 0.01 and 1
 log_scale_min_t1, log_scale_max_t1, number_of_points_t1 = 0.025, 0.045, 5
 log_scale_min_t2, log_scale_max_t2, number_of_points_t2 = 0.008, 0.01, 5

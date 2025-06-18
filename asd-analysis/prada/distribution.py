@@ -25,7 +25,7 @@ def calculate_entropy(data_mapped_counts):
     entropy = -np.sum(probabilities * np.log2(probabilities))
     return entropy
 
-def calculate_and_plot_entropy_and_neurons(mapped_units, log_scale_t1, log_scale_t2):
+def calculate_and_plot_entropy_and_neurons(mapped_units, log_scale_t1, log_scale_t2, floats=3):
     """
     Calculate the entropy, total neurons, and total leaf neurons for each t1-t2 combination and plot it as separate colormaps.
     
@@ -40,8 +40,8 @@ def calculate_and_plot_entropy_and_neurons(mapped_units, log_scale_t1, log_scale
     # Iterate over t1 and t2 values
     for i, t1 in enumerate(log_scale_t1):
         for j, t2 in enumerate(log_scale_t2):
-            t1_r = round(t1, 3)
-            t2_r = round(t2, 3)
+            t1_r = round(t1, floats)
+            t2_r = round(t2, floats)
 
             # Access the train_mapped_zero_unit for the current (t1_r, t2_r) combination
             train_mapped_zero_unit = mapped_units.get((t1_r, t2_r), {}).get("train_mapped_zero_unit")
@@ -68,8 +68,8 @@ def calculate_and_plot_entropy_and_neurons(mapped_units, log_scale_t1, log_scale
                 annotations[i, j] = "N/A"
      
     # Plot the entropy and neuron colormaps with the same annotations
-    plot_entropy_colormap(entropy_values, log_scale_t1, log_scale_t2, annotations)
-    plot_neuron_colormap(neuron_counts, log_scale_t1, log_scale_t2, annotations)
+    plot_entropy_colormap(entropy_values, log_scale_t1, log_scale_t2, annotations, floats=floats)
+    plot_neuron_colormap(neuron_counts, log_scale_t1, log_scale_t2, annotations, floats=floats)
 
     # Calculate and print the min and max entropy values (ignoring NaN values)
     min_entropy = np.nanmin(entropy_values)
@@ -77,7 +77,7 @@ def calculate_and_plot_entropy_and_neurons(mapped_units, log_scale_t1, log_scale
     print(f"Minimum entropy: {min_entropy:.2f}")
     print(f"Maximum entropy: {max_entropy:.2f}")
 
-def plot_entropy_colormap(entropy_values, log_scale_t1, log_scale_t2, annotations):
+def plot_entropy_colormap(entropy_values, log_scale_t1, log_scale_t2, annotations, floats=3):
     """
     Plot entropy values as a colormap on t1-t2 axes, with custom annotations showing entropy, total neurons, and leaf neurons.
     
@@ -87,8 +87,8 @@ def plot_entropy_colormap(entropy_values, log_scale_t1, log_scale_t2, annotation
     :param annotations: 2D array of strings to display in each cell (entropy, total neurons, leaf neurons)
     """
     # Round log_scale values to 3 decimal places for display on the axes
-    rounded_log_scale_t1 = [round(val, 3) for val in log_scale_t1]
-    rounded_log_scale_t2 = [round(val, 3) for val in log_scale_t2]
+    rounded_log_scale_t1 = [round(val, floats) for val in log_scale_t1]
+    rounded_log_scale_t2 = [round(val, floats) for val in log_scale_t2]
     
     plt.figure(figsize=(10, 8))
     # Create heatmap with custom annotations and disable automatic colorbar
@@ -101,7 +101,7 @@ def plot_entropy_colormap(entropy_values, log_scale_t1, log_scale_t2, annotation
     plt.colorbar(heatmap.collections[0], label="Entropy")  # Attach a single colorbar
     plt.show()
 
-def plot_neuron_colormap(neuron_counts, log_scale_t1, log_scale_t2, annotations):
+def plot_neuron_colormap(neuron_counts, log_scale_t1, log_scale_t2, annotations, floats=3):
     """
     Plot neuron count values as a colormap on t1-t2 axes, with custom annotations showing entropy, total neurons, and leaf neurons.
     
@@ -111,8 +111,8 @@ def plot_neuron_colormap(neuron_counts, log_scale_t1, log_scale_t2, annotations)
     :param annotations: 2D array of strings to display in each cell (entropy, total neurons, leaf neurons)
     """
     # Round log_scale values to 3 decimal places for display on the axes
-    rounded_log_scale_t1 = [round(val, 3) for val in log_scale_t1]
-    rounded_log_scale_t2 = [round(val, 3) for val in log_scale_t2]
+    rounded_log_scale_t1 = [round(val, floats) for val in log_scale_t1]
+    rounded_log_scale_t2 = [round(val, floats) for val in log_scale_t2]
     
     plt.figure(figsize=(10, 8))
     # Create heatmap with custom annotations and disable automatic colorbar
